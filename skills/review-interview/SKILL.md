@@ -3,15 +3,16 @@ name: review-interview
 description: >-
   Coaches interviewing technique from a call — grades the tape, not the product.
   Use when the user asks how the call went, what they missed, where they led the
-  customer, or how to interview better. Do not use when they want what the call
+  customer, or how to interview better. "What did I miss?" / "How did I do on
+  this call?" / "Grade this interview." Do not use when they want what the call
   means for the product, insights, or what ticket to file
-  (extract-customer-insights), or to pressure-test a bet (product-judgment).
+  (extract-customer-insights), or to pressure-test a bet (pressure-test-a-bet).
 ---
 
 # Review an interview
 
 Code review of the call. Transcript only — never invent quotes. Direct, no
-applause — same voice as `product-judgment`.
+applause — same voice as `pressure-test-a-bet`.
 
 ## Output contract
 
@@ -46,6 +47,7 @@ Most calls get behavior. Few get cost. Almost none get tradeoff.
 **Engineer misses to flag:**
 - Asked instead of showed — had a prototype/PR/screen and ran a survey
 - Signal was late — gold quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
+- Would-you-pay — always yes. Instead: what they already spend (hours, tool, invoice, who signs). Not a better hypothetical. See `prep-customer-interview` Stakes.
 - Prep miss — one line if searchable context existed before the call
 
 **Close:** the one question or thing to show that would've cracked it open.

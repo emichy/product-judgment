@@ -1,7 +1,7 @@
 {
   "name": "product-judgment",
   "description": "Product judgment for product engineers who own the bet. Leave with the bet, who to call, what to ask, or the message that unblocks.",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "author": {
     "name": "Evan Michner"
   },

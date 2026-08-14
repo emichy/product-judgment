@@ -3,15 +3,17 @@ name: make-it-land
 description: >-
   Shapes internal product messages — CEO updates, bet pitches, resource asks —
   anchored on observed customer behavior. Use when the user needs buy-in, a
-  founder update, or help turning rambling into a clear decision request. Do not
-  use for customer interviews (prep-customer-interview, review-interview,
-  extract-customer-insights) or for figuring out the bet (product-judgment).
+  founder update, or help turning rambling into a clear decision request.
+  "Help me pitch this to my CEO." / "Make this land." / "Status that isn't a
+  changelog." Do not use for customer interviews (prep-customer-interview,
+  review-interview, extract-customer-insights) or for figuring out the bet
+  (pressure-test-a-bet).
 ---
 
 # Make it land
 
 Turn rambling into a message that moves a decision. Direct, no hedge — same
-voice as `product-judgment`.
+voice as `pressure-test-a-bet`.
 
 ## Output contract
 
@@ -19,7 +21,7 @@ voice as `product-judgment`.
 |---|------|
 | **Line 1** | Insight or ask — not warmup |
 | **Deliver** | Slack-length + paragraph version |
-| **Bounce** | No behavior sentence → `product-judgment` first |
+| **Bounce** | No behavior sentence → `pressure-test-a-bet` first |
 
 ## Structure
 

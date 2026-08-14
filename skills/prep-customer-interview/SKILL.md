@@ -4,15 +4,17 @@ description: >-
   Finds named people to talk to from support, issues, CRM, analytics, or the
   repo, then aligns on one thing to learn and drafts 4-5 spoken questions on
   request. Use when the user needs who to talk to, has a call coming up, or
-  wants prep for a support call or screen-share. Do not use for past transcripts
-  (extract-customer-insights for what it means, review-interview for how they
-  interviewed) or for pressure-testing the bet (product-judgment).
+  wants prep for a support call or screen-share. "Who should I talk to?" /
+  "Prep me for the Acme call." / "I've got a customer on Thursday." Do not use
+  for past transcripts (extract-customer-insights for what it means,
+  review-interview for how they interviewed) or for pressure-testing the bet
+  (pressure-test-a-bet).
 ---
 
 # Prep a customer conversation
 
 Working session, not an interview guide. Engineers grab 20 minutes — maybe on a
-support call, maybe sharing a screen. Same evidence bar as `product-judgment`:
+support call, maybe sharing a screen. Same evidence bar as `pressure-test-a-bet`:
 current behavior, not hypotheticals.
 
 Three phases. Skip any that's already done.
@@ -63,7 +65,7 @@ Then: **Want 4 questions + an ask?** Nothing else.
 
 4–5 questions. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
-If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice.
+If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
 Worked shape (same structure, their words):
 
@@ -76,3 +78,14 @@ Worked shape (same structure, their words):
 > 5. "What made you want to take this call now?"
 
 Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
+
+## Stakes (never "would you pay")
+
+The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats asking if they'd pay.
+
+- "Walk me through the last time this blew up. What did it cost — hours, a tool, an invoice, a person?"
+- "What are you paying for this today? Not hypothetically — the spreadsheet, the contractor, the other product."
+- "If I asked you to pull that up right now, could you?"
+- "What did you cut last time you had to make room for this?"
+- "Who had to sign off the last time you spent money on it?"
+- "The Monday Excel file — whose time is that, and what don't they do instead?"

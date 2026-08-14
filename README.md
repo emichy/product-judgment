@@ -27,7 +27,7 @@ The plugin is how Claude and Cursor keep skills up to date. Install it once, get
 
 Updating later: `/plugin marketplace update product-judgment` then `/plugin update product-judgment@product-judgment` in Claude Code; the **Update** button in Claude Desktop and Cursor.
 
-Installed as a plugin, the skills are namespaced — `/product-judgment:make-it-land`. Ugly, and that's how Claude plugins work.
+Installed as a plugin, the skills are namespaced — `/product-judgment:pressure-test-a-bet`. Ugly, and that's how Claude plugins work.
 
 ### 2. Anyone — one command
 
@@ -53,13 +53,13 @@ cp -r product-judgment/skills/* ~/.claude/skills/
 | Cursor | `~/.cursor/skills/` or `.cursor/skills/` |
 | Codex | `~/.codex/skills/` or `.codex/skills/` |
 
-Then `/product-judgment` — or just describe the bet.
+Then `/product-judgment:pressure-test-a-bet` — or just describe the bet.
 
 ## Skills
 
 | Skill | Use when |
 |-------|----------|
-| `product-judgment` | Idea, request, or bet to challenge |
+| `pressure-test-a-bet` | Idea, request, or bet to challenge |
 | `prep-customer-interview` | Need a person to talk to, or a call's coming up |
 | `review-interview` | How the call went, what you missed |
 | `extract-customer-insights` | What the call means for the product |
