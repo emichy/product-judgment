@@ -1,0 +1,11 @@
+{
+  "name": "product-judgment",
+  "description": "Pressure-test the bet before you build it. Prep the call, read the transcript, make the internal ask land.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Evan Michner"
+  },
+  "homepage": "https://github.com/emichy/product-judgment",
+  "repository": "https://github.com/emichy/product-judgment",
+  "license": "MIT"
+}

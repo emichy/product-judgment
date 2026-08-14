@@ -1,0 +1,20 @@
+{
+  "name": "product-judgment",
+  "displayName": "Product Judgment",
+  "version": "0.1.0",
+  "description": "Pressure-test the bet before you build it. Prep the call, read the transcript, make the internal ask land.",
+  "author": {
+    "name": "Evan Michner"
+  },
+  "homepage": "https://github.com/emichy/product-judgment",
+  "repository": "https://github.com/emichy/product-judgment",
+  "keywords": [
+    "product-judgment",
+    "product-management",
+    "customer-interviews",
+    "discovery",
+    "agent-skills",
+    "skills"
+  ],
+  "skills": "./skills/"
+}
