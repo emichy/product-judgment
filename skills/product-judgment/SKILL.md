@@ -4,8 +4,9 @@ description: >-
   Pressure-tests product bets, feature requests, and roadmap items against
   current customer behavior — workarounds, not hypotheticals. Use when the user
   wants to challenge an idea, decode a feature request, pick a priority, or
-  build conviction on what to ship. Do not use for coding, tests, PRs, refactors,
-  or interview transcripts.
+  build conviction on what to ship. Do not use for interview transcripts
+  (extract-customer-insights for what the call means, review-interview for how
+  they ran it) or for drafting an internal ask (make-it-land).
 ---
 
 # Product judgment

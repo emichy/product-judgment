@@ -61,8 +61,8 @@ Then `/product-judgment` — or just describe the bet.
 |-------|----------|
 | `product-judgment` | Idea, request, or bet to challenge |
 | `prep-customer-interview` | Need a person to talk to, or a call's coming up |
-| `review-interview` | Transcript in, want to get better |
-| `extract-customer-insights` | Transcript in, want to know what it means |
+| `review-interview` | How the call went, what you missed |
+| `extract-customer-insights` | What the call means for the product |
 | `make-it-land` | Internal ask that has to move a decision |
 
 Review coaches you. Extract coaches the bet.

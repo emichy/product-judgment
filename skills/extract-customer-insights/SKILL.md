@@ -1,11 +1,13 @@
 ---
 name: extract-customer-insights
 description: >-
-  Extracts one actionable insight from a customer conversation with timestamped
-  proof, triangulates against tickets, CRM, issues, or the repo, and outputs a
-  single bet card. Use when the user wants to know what a call revealed, whether
-  signal is a pattern, or what ticket to file. Do not use for coaching interview
-  technique, coding, tests, or PRs.
+  Extracts what a customer conversation revealed — current behavior, workarounds,
+  timestamped proof — then triangulates against tickets, CRM, issues, or the
+  repo. Use when the user wants insights from a call, what it means, whether
+  signal is a pattern, or what ticket to file. A pasted transcript plus
+  "insights," "what did we learn," or "what does this mean" is this skill, not
+  review-interview. Do not use for coaching how they interviewed
+  (review-interview).
 ---
 
 # Extract customer insights
@@ -19,11 +21,9 @@ invent. Search before you label corroborated.
 |------|---------|
 | **1** | Line 1: Right now they [job] by [workaround]. Can't say it → say you don't have an insight yet. |
 | **2** | Proof: [ts] + quote on every claim. No timestamp → didn't happen. |
-| **3** | One bet card (not five) |
+| **3** | Lead with the workaround that has cost. One bet card on that. Other signals: one line each, no card, unless they ask. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
 | **5** | Stop: "What here is worth pressure-testing?" Offer `product-judgment` or `make-it-land`. |
-
-Two workarounds in the tape → pick the one with cost. One bet card.
 
 ## Bet card
 
