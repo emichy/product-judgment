@@ -83,6 +83,8 @@ The workaround is the spec. Right now, when someone needs [outcome], they do it 
 "'Would you pay' always gets a yes." The workaround *is* the budget. Ask what they already spend — see `prep-customer-interview` Stakes. Show a rough prototype when you can — reaction beats hypothetical.
 
 Before you argue: search tickets, CRM, issues, analytics, or the repo (PRs, git log, files on disk, MCP if connected). One loud account ≠ a pattern.
+If you cite a ticket: one line on open / shipped / canceled. Don't collapse versions or treat a title as what shipped.
+Already tried it ≠ don't build it. Why did it die, what's changed, what new angle.
 
 ## Patterns (only when they change what happens this week)
 

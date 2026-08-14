@@ -67,6 +67,17 @@ Then `/product-judgment:pressure-test-a-bet` — or just describe the bet.
 
 Review coaches you. Extract coaches the bet.
 
+## Prompting your assistant
+
+Describe the outcome; the right skill loads itself. For example:
+
+"Pressure-test this: we should build a health dashboard so CSMs can see at-risk accounts before renewal."
+"Which customers or prospects should I talk to about that, and prep me for the call."
+"Extract some insights from this call." *(paste the transcript)*
+"What did I miss?"
+"How can I ask better customer questions?"
+"Help me pitch this to my CEO in three sentences."
+
 Originally [Lisnloop](https://lisnloop.com) — talk, extract, bet, ship, loop.
 
 MIT · PRs that add hedging get closed.
