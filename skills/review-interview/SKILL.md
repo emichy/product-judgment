@@ -1,11 +1,11 @@
 ---
 name: review-interview
 description: >-
-  Reviews customer interview transcripts and coaches interviewing technique —
-  not product strategy. Grades the tape: evidence captured, questions asked vs
-  shown, signal missed before the call ended. Use when the user shares a call
-  transcript, asks what they missed, or how to improve. Do not use for extracting
-  product insights, roadmap themes, coding, tests, or PRs.
+  Coaches interviewing technique from a call — grades the tape, not the product.
+  Use when the user asks how the call went, what they missed, where they led the
+  customer, or how to interview better. Do not use when they want what the call
+  means for the product, insights, or what ticket to file
+  (extract-customer-insights), or to pressure-test a bet (product-judgment).
 ---
 
 # Review an interview

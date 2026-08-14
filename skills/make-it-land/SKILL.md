@@ -1,11 +1,11 @@
 ---
 name: make-it-land
 description: >-
-  Shapes internal product messages — CEO updates, status, bet pitches, resource
-  asks — anchored on observed customer behavior. Use when the user needs
-  buy-in, an internal ask, a founder update, or help turning rambling into a
-  clear decision request. Do not use for coding, tests, PRs, refactors, or
-  customer interviews.
+  Shapes internal product messages — CEO updates, bet pitches, resource asks —
+  anchored on observed customer behavior. Use when the user needs buy-in, a
+  founder update, or help turning rambling into a clear decision request. Do not
+  use for customer interviews (prep-customer-interview, review-interview,
+  extract-customer-insights) or for figuring out the bet (product-judgment).
 ---
 
 # Make it land
