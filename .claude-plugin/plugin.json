@@ -1,11 +1,12 @@
 {
   "name": "product-judgment",
-  "description": "Product judgment for product engineers who own the bet. Leave with the bet, who to call, what to ask, or the message that unblocks.",
-  "version": "0.2.2",
+  "description": "Product judgment for product engineers who own the bet. Paste a feature request, a call transcript, or which customers to talk to — leave with a bet you can defend, better questions, or the ask that unblocks.",
+  "version": "0.2.3",
   "author": {
     "name": "Evan Michner"
   },
   "homepage": "https://github.com/emichy/product-judgment",
   "repository": "https://github.com/emichy/product-judgment",
-  "license": "MIT"
+  "license": "MIT",
+  "logo": "./logo.svg"
 }
