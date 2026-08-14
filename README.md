@@ -2,14 +2,9 @@
 
 Product judgment for product engineers who own the bet.
 
-Hands in the repo. Customer → software, fast.
+Paste a feature request, a transcript, or "who should I talk to." You leave with the bet, who to call, what to ask, or the message that unblocks.
 
-Not a spec writer. Not a product coach. Not a discovery program.
-
-```
-Right now they [job] by [workaround].
-Empty slot → not ready to bet.
-```
+Customer → software, fast.
 
 **Before:** "We need a dashboard for enterprise. Customers want better visibility."
 
