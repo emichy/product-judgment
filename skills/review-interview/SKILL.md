@@ -37,7 +37,7 @@ Most calls get behavior. Few get cost. Almost none get tradeoff.
 
 ## Format (2–3 moments max)
 
-**[timestamp]** "Exact quote"
+**[timestamp if the tape has one]** "Exact quote"
 ↳ Asked: [their question]
 ↳ Instead: [what to say or show]
 ↳ Would reveal: [specific insight]
