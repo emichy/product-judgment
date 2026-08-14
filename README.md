@@ -23,7 +23,8 @@ The plugin is how Claude and Cursor keep skills up to date. Install it once, get
 
 **Claude Desktop / claude.ai** — **Customize → Plugins → Add → Add marketplace → Add from a repository**. Paste `https://github.com/emichy/product-judgment`, **Sync**, then open **Product Judgment** and **Install**.
 
-**Cursor** — **Customize → Plugins → Add Marketplace → Import from Github**. Paste the same URL, then install **Product Judgment**. Leave **Auto Refresh** on and updates arrive on their own.
+**Cursor** — **One click from the directory** [https://cursor.directory/plugins/product-judgment](https://cursor.directory/plugins/product-judgment)
+Or from inside Cursor: **Customize → Plugins → Add Marketplace → Import from Github**. Paste `https://github.com/emichy/product-judgment`, then install **Product Judgment**.
 
 Updating later: `/plugin marketplace update product-judgment` then `/plugin update product-judgment@product-judgment` in Claude Code; the **Update** button in Claude Desktop and Cursor.
 
