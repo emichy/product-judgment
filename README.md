@@ -6,6 +6,11 @@ Hands in the repo. Customer → software, fast.
 
 Not a spec writer. Not a product coach. Not a discovery program.
 
+```
+Right now they [job] by [workaround].
+Empty slot → not ready to bet.
+```
+
 **Before:** "We need a dashboard for enterprise. Customers want better visibility."
 
 **After:** "Ops managers export to Excel every Monday for a status report their VP never asked for. Ask: one sprint on visibility-without-export, or does [other bet] win? Need a call by Friday."
