@@ -12,7 +12,7 @@ Customer → software, fast.
 
 ## Install
 
-### 1. Claude — as a plugin
+### 1. As a Plugin
 
 The plugin is how Claude and Cursor keep skills up to date. Install it once, get updates after that.
 
