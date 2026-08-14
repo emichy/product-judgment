@@ -1,8 +1,8 @@
 {
   "name": "product-judgment",
   "displayName": "Product Judgment",
-  "version": "0.1.0",
-  "description": "Pressure-test the bet before you build it. Prep the call, read the transcript, make the internal ask land.",
+  "version": "0.1.1",
+  "description": "Product judgment for engineers who own the bet",
   "author": {
     "name": "Evan Michner"
   },

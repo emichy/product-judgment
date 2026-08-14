@@ -1,6 +1,6 @@
 {
   "name": "product-judgment",
-  "description": "Agent skills for product engineers — pressure-test bets from what customers do today.",
+  "description": "Product judgment for engineers who own the bet",
   "owner": {
     "name": "Evan Michner",
     "url": "https://github.com/emichy"
@@ -10,8 +10,8 @@
       "name": "product-judgment",
       "displayName": "Product Judgment",
       "source": "./",
-      "version": "0.1.0",
-      "description": "Pressure-test the bet before you build it. Prep the call, read the transcript, make the internal ask land."
+      "version": "0.1.1",
+      "description": "Product judgment for engineers who own the bet"
     }
   ]
 }
