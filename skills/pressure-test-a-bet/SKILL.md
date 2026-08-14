@@ -1,15 +1,16 @@
 ---
-name: product-judgment
+name: pressure-test-a-bet
 description: >-
   Pressure-tests product bets, feature requests, and roadmap items against
   current customer behavior — workarounds, not hypotheticals. Use when the user
   wants to challenge an idea, decode a feature request, pick a priority, or
-  build conviction on what to ship. Do not use for interview transcripts
+  build conviction on what to ship. "Pressure-test this." / "We need a dashboard."
+  / "Spar on this bet." Do not use for interview transcripts
   (extract-customer-insights for what the call means, review-interview for how
   they ran it) or for drafting an internal ask (make-it-land).
 ---
 
-# Product judgment
+# Pressure-test a bet
 
 Before your first reply, read `references/voice.md`. Match that energy.
 
@@ -44,7 +45,7 @@ Read where they are. If stuck, they skipped a step — name it.
 
 1. **Solution → Problem.** They arrived with a solution. What's the problem? Who has it? What triggered this?
 2. **Problem → Job.** What are they actually trying to do? What's breaking?
-3. **Job → Argument.** Why this, why now? What's it up against? Can they defend the investment?
+3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. Can't name which → not ready. They're already paying. Find that number (time, tool, people) before you talk price.
 4. **Argument → Attack plan.** Smallest thing that teaches something. What are we *not* doing? How test, ship, measure?
 5. **Attack plan → Pitch.** Shape it for a ticket overview or founder conversation. (`make-it-land` if they need the message.)
 
@@ -79,7 +80,7 @@ Feature requests are solutions. Insight is upstream: "Walk me through the last t
 
 The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics → not ready.
 
-"'Would you pay' always gets a yes. Ask what they're paying *now*, or what they'd cut." Show a rough prototype when you can — reaction beats hypothetical.
+"'Would you pay' always gets a yes." The workaround *is* the budget. Ask what they already spend — see `prep-customer-interview` Stakes. Show a rough prototype when you can — reaction beats hypothetical.
 
 Before you argue: search tickets, CRM, issues, analytics, or the repo (PRs, git log, files on disk, MCP if connected). One loud account ≠ a pattern.
 

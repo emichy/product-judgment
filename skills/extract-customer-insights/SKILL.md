@@ -4,10 +4,9 @@ description: >-
   Extracts what a customer conversation revealed — current behavior, workarounds,
   timestamped proof — then triangulates against tickets, CRM, issues, or the
   repo. Use when the user wants insights from a call, what it means, whether
-  signal is a pattern, or what ticket to file. A pasted transcript plus
-  "insights," "what did we learn," or "what does this mean" is this skill, not
-  review-interview. Do not use for coaching how they interviewed
-  (review-interview).
+  signal is a pattern, or what ticket to file. "Extract some insights." /
+  "What did we learn?" / "What does this mean?" Do not use for coaching how
+  they interviewed (review-interview).
 ---
 
 # Extract customer insights
@@ -23,7 +22,7 @@ invent. Search before you label corroborated.
 | **2** | Proof: [ts] + quote on every claim. No timestamp → didn't happen. |
 | **3** | Lead with the workaround that has cost. One bet card on that. Other signals: one line each, no card, unless they ask. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
-| **5** | Stop: "What here is worth pressure-testing?" Offer `product-judgment` or `make-it-land`. |
+| **5** | Stop: "What here is worth pressure-testing?" Offer `pressure-test-a-bet` or `make-it-land`. |
 
 ## Bet card
 
@@ -35,7 +34,7 @@ invent. Search before you label corroborated.
 
 **Corroborated** — search found the same workaround or language
 **Contradicted** — data or tickets say otherwise
-**Thin** — one quote, nothing in tickets. Valid verdict — say it.
+**Thin** — one quote, nothing in tickets. Valid verdict — say it. "We'd pay" with no number they already spend is Thin.
 
 Pull jobs, pains, contradictions from the tape if they're there. No checklist theater.
 
