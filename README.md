@@ -43,6 +43,7 @@ Via [skills.sh](https://skills.sh). No plugin UI required.
 
 ```bash
 git clone https://github.com/emichy/product-judgment.git
+mkdir -p ~/.claude/skills
 cp -r product-judgment/skills/* ~/.claude/skills/
 ```
 
