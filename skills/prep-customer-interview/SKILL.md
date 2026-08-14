@@ -60,6 +60,8 @@ Then: **Want 4 questions + an ask for #1?**
 
 One sentence — the thing that, if wrong, changes what you'd build. Not a list of "learning goals."
 
+This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
+
 Then: **Want 4 questions + an ask?** Nothing else.
 
 ## Script (on request only)
@@ -79,6 +81,18 @@ Worked shape (same structure, their words):
 > 5. "What made you want to take this call now?"
 
 Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
+
+Sound like a person: "walk me through your workflow" → "What tools are in the mix right now?" / "primary pain points" → "What's the most annoying part?"
+
+**Skeleton keys** (pick, don't print the list):
+- "Walk me through the last time." No specific moment = not a real problem.
+- "What did you end up doing?" Workaround = spec.
+- "What happened right before that?" Then one step earlier.
+- "So what happens if you just… don't?"
+- "What would actually break if we disappeared tomorrow?"
+- "When did this start?" When gets a story. Why gets a thesis.
+
+Vague answer → move on. Detail or frustration → "Say more."
 
 ## Stakes (never "would you pay")
 

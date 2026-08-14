@@ -37,7 +37,7 @@ Most calls get behavior. Few get cost. Almost none get tradeoff.
 
 ## Format (2–3 moments max)
 
-**[timestamp]** "Exact quote"
+**[timestamp if the tape has one]** "Exact quote"
 ↳ Asked: [their question]
 ↳ Instead: [what to say or show]
 ↳ Would reveal: [specific insight]
@@ -48,6 +48,8 @@ Most calls get behavior. Few get cost. Almost none get tradeoff.
 - Asked instead of showed — had a prototype/PR/screen and ran a survey
 - Signal was late — gold quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
 - Would-you-pay — always yes. Instead: what they already spend (hours, tool, invoice, who signs). Not a better hypothetical. See `prep-customer-interview` Stakes.
+- Story or summary? "We usually" without a moment = summary.
+- They talked more than ~30% — say so.
 - Prep miss — one line if searchable context existed before the call
 
 **Close:** the one question or thing to show that would've cracked it open.
