@@ -80,6 +80,10 @@ Feature requests are solutions. Insight is upstream: "Walk me through the last t
 
 The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics → not ready.
 
+How often does this job happen, and what breaks when it goes wrong? The alternative is what they do today — not the competitor's changelog.
+
+Enthusiasm isn't a bet. Did they forward it, ask for access, name a budget, or just nod?
+
 "'Would you pay' always gets a yes." The workaround *is* the budget. Ask what they already spend — see `prep-customer-interview` Stakes. Show a rough prototype when you can — reaction beats hypothetical.
 
 Before you argue: search tickets, CRM, issues, analytics, or the repo (PRs, git log, files on disk, MCP if connected). One loud account ≠ a pattern.
