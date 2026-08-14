@@ -10,7 +10,7 @@
       "name": "product-judgment",
       "displayName": "Product Judgment",
       "source": "./",
-      "version": "0.2.0",
+      "version": "0.2.1",
       "description": "Product judgment for product engineers who own the bet. Leave with the bet, who to call, what to ask, or the message that unblocks."
     }
   ]

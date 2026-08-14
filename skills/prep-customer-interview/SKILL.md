@@ -5,10 +5,10 @@ description: >-
   repo, then aligns on one thing to learn and drafts 4-5 spoken questions on
   request. Use when the user needs who to talk to, has a call coming up, or
   wants prep for a support call or screen-share. "Who should I talk to?" /
-  "Prep me for the Acme call." / "I've got a customer on Thursday." Do not use
-  for past transcripts (extract-customer-insights for what it means,
-  review-interview for how they interviewed) or for pressure-testing the bet
-  (pressure-test-a-bet).
+  "Prep me for the Acme call." / "Which customers or prospects should I talk
+  to?" Do not use for past transcripts (extract-customer-insights for what it
+  means, review-interview for how they interviewed) or for pressure-testing
+  the bet (pressure-test-a-bet).
 ---
 
 # Prep a customer conversation
@@ -39,6 +39,7 @@ Before any questions, search what's available:
 - Analytics if connected — exports, CSV downloads, empty-state workarounds
 - Repo — PRs, issue text, TODO/FIXME naming a customer
 - Mail / calendar / Slack if connected — they may have already talked to someone
+- Canceled tickets, old projects, prior attempts. Already tried ≠ don't build. Why did it die, what's changed, what new data or angle do we have?
 
 **Filter:** hit the problem recently, still doing the workaround, not your biggest fan, not five random logos. Prefer: support-heavy, churned, lost the deal, built the spreadsheet. One power user max — label as such.
 

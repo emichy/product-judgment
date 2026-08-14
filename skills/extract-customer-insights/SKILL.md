@@ -35,6 +35,7 @@ invent. Search before you label corroborated.
 **Corroborated** — search found the same workaround or language
 **Contradicted** — data or tickets say otherwise
 **Thin** — one quote, nothing in tickets. Valid verdict — say it. "We'd pay" with no number they already spend is Thin.
+If you cite a ticket: one line on open / shipped / canceled. Don't collapse versions or treat a title as what shipped.
 
 Pull jobs, pains, contradictions from the tape if they're there. No checklist theater.
 
