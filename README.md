@@ -2,13 +2,11 @@
 
 Product judgment for product engineers who own the bet.
 
-Paste a feature request, a transcript, or "who should I talk to." You leave with the bet, who to call, what to ask, or the message that unblocks.
+Paste a feature request, a transcript, or "who should I talk to." You leave with the bet, who to call, what to ask, and clarity as you build.
 
-Customer → software, fast.
+Customer → software → customer, fast. Not a coach, not a spec writer, no frameworks, no templates. Scrappy skills that put engineers next to their customers.
 
-**Before:** "We need a dashboard for enterprise. Customers want better visibility."
-
-**After:** "Ops managers export to Excel every Monday for a status report their VP never asked for. Ask: one sprint on visibility-without-export, or does [other bet] win? Need a call by Friday."
+Originally started as [Lisnloop](https://lisnloop.com) — a free agent for product engineers. Now as a set of skills that work with any AI agent.
 
 ## Install
 
@@ -78,7 +76,5 @@ Describe the outcome; the right skill loads itself. For example:
 "What did I miss?"
 "How can I ask better customer questions?"
 "Help me pitch this to my CEO in three sentences."
-
-Originally [Lisnloop](https://lisnloop.com) — talk, extract, bet, ship, loop.
 
 MIT · PRs that add hedging get closed.
