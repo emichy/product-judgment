@@ -19,10 +19,10 @@ invent. Search before you label corroborated.
 | Step | Deliver |
 |------|---------|
 | **1** | Line 1: Right now they [job] by [workaround]. Can't say it → say you don't have an insight yet. |
-| **2** | Proof: exact quote on every claim. Timestamp if the tape has one; quote alone is enough if it doesn't. Can't point to the words → didn't happen. Quote with a consequence, or a vibe? Vibe isn't an insight. |
+| **2** | Proof: quote observed behavior exactly. Label anything beyond the tape as inference or read. Vibe is allowed; invented certainty isn't. |
 | **3** | Lead with the workaround that has cost. One bet card on that. Other signals: one line each, no card, unless they ask. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
-| **5** | Stop: "What here is worth pressure-testing?" Offer `pressure-test-a-bet` or `make-it-land`. |
+| **5** | Stop with: **Current read**, **carrying assumption**, **smallest useful next move**, and what would make us rethink it. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
 
 ## Bet card
 
