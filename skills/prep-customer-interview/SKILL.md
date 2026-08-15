@@ -84,8 +84,10 @@ Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds l
 
 Sound like a person: "walk me through your workflow" → "What tools are in the mix right now?" / "primary pain points" → "What's the most annoying part?"
 
+Early-stage bets may begin with founder or customer pull before a pattern exists. Don't launder that into proof — use the call to sharpen it.
+
 **Skeleton keys** (pick, don't print the list):
-- "Walk me through the last time." No specific moment = not a real problem.
+- "Walk me through the last time." No specific moment = weaker evidence, not necessarily no problem.
 - "What did you end up doing?" Workaround = spec.
 - "What happened right before that?" Then one step earlier.
 - "So what happens if you just… don't?"

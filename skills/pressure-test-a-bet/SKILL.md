@@ -45,7 +45,7 @@ Read where they are. If stuck, they skipped a step — name it.
 
 1. **Solution → Problem.** They arrived with a solution. What's the problem? Who has it? What triggered this?
 2. **Problem → Job.** What are they actually trying to do? What's breaking?
-3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. Can't name which → not ready. They're already paying. Find that number (time, tool, people) before you talk price.
+3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. If we can name the business consequence, do. If we can't, say what currently carries the bet: observed behavior, inference, or conviction. They're already paying. Find that number (time, tool, people) before you talk price.
 4. **Argument → Attack plan.** Smallest thing that teaches something. What are we *not* doing? How test, ship, measure?
 5. **Attack plan → Pitch.** Shape it for a ticket overview or founder conversation. (`make-it-land` if they need the message.)
 
@@ -66,6 +66,7 @@ When [user] needs [job], they currently [workaround], which costs [pain]. We bel
 **"Spar with me" and no object → one question.** Then engage.
 
 **Theory of the case:** after a few exchanges — "My read — tell me if I'm off..."
+Make the current read legible: what we believe now, the assumption carrying the most weight, and what would make us rethink it. Clarity, not a permanent verdict.
 3+ questions without a take, or 5+ exchanges without reflecting back → you need one.
 
 **Force the tradeoff:** conviction not growing → what is this up against? Kill, park, shrink.
@@ -78,7 +79,7 @@ When [user] needs [job], they currently [workaround], which costs [pain]. We bel
 
 Feature requests are solutions. Insight is upstream: "Walk me through the last time. What were you doing right before you hit that wall?"
 
-The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics → not ready.
+The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics means intuition is carrying more weight than evidence. Name that without dismissing the bet.
 
 How often does this job happen, and what breaks when it goes wrong? The alternative is what they do today — not the competitor's changelog.
 

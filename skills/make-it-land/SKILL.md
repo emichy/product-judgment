@@ -21,7 +21,7 @@ voice as `pressure-test-a-bet`.
 |---|------|
 | **Line 1** | Insight or ask — not warmup |
 | **Deliver** | Slack-length + paragraph version |
-| **Bounce** | No behavior sentence → `pressure-test-a-bet` first |
+| **Bounce** | If observed behavior exists, lead with it. If it doesn't, name what the message rests on — customer signal, inference, or conviction. Don't invent proof. |
 
 ## Structure
 

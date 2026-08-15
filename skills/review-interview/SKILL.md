@@ -35,6 +35,8 @@ applause — same voice as `pressure-test-a-bet`.
 
 Most calls get behavior. Few get cost. Almost none get tradeoff.
 
+Separate the tape from your read. Quotes and behavior are observed; what they imply is inference. A strong intuition is worth naming — don't upgrade it into evidence.
+
 ## Format (2–3 moments max)
 
 **[timestamp if the tape has one]** "Exact quote"
