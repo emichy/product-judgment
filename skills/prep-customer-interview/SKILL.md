@@ -37,7 +37,7 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -66,7 +66,7 @@ Early-stage bets may begin with founder or customer pull before a pattern exists
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
-**They shrug at the feature — that's the answer, not a failed call.** Stop testing it, don't sell harder. Spend the rest of the time on their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?" You booked 20 minutes to learn something and you still have 15 of them.
+**They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it. Don't sell harder, don't push the same line again in different words. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?" You booked 20 minutes to learn something and you still have 15 of them.
 
 ## Stakes (never "would you pay")
 

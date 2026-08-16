@@ -76,7 +76,7 @@ Make the current read legible: what we believe now, the assumption carrying the 
 
 **Endings:** never "go interview 5 people and come back." Next step + what we can do right now.
 
-**Shift:** spar becomes an internal ask → name it, offer `make-it-land`.
+**Shift:** when the job changes, name it and follow. Needs the message → `make-it-land`. Needs a customer → `prep-customer-interview`. Often it's neither — build the rough version, shrink it, or kill it.
 
 ## Evaluate
 
