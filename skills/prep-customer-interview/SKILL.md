@@ -79,7 +79,7 @@ The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats as
 
 ## Who'll react
 
-They need reactions to a specific thing, not a representative sample. Three to five people who'll have a strong one — indifference teaches nothing.
+They need reactions to a specific thing, not a representative sample. Three to five people with enough at stake to react either way.
 
 **Start from who they already have.** One or two names is a seed, not a shortfall. Name what makes those two right — built the workaround, churned over it, biggest list, filed the ticket — then find others on that line. Extending a line beats searching a category.
 
