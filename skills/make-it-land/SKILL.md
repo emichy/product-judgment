@@ -6,8 +6,8 @@ description: >-
   observed customer behavior. Use when the thinking is right but the telling is
   diluting it. "Help my CEO understand this bet." / "How do I frame this for the
   roadmap?" / "Make this land." / "Status that isn't a changelog." Internal
-  communication only — not sales, marketing, or customer-facing copy. If the bet
-  itself is still fuzzy, use pressure-test-a-bet first. Do not use for customer
+  communication only — not sales, marketing, or customer-facing copy. Bet still
+  fuzzy → pressure-test-a-bet. Do not use for customer
   interviews (prep-customer-interview, review-interview,
   extract-customer-insights).
 ---

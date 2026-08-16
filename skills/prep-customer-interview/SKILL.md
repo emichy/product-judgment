@@ -25,7 +25,7 @@ of them a demo. Never tell someone to wait until they have something.
 
 Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
 
-**Always deliver an anchor and questions.** Missing account, empty search, unclear what kind of call — write them anyway with a placeholder in the blank, and ask at the end. Never open with what you need from them, and never as a form or a menu. Nothing is too thin to start from.
+**Always deliver an anchor and questions.** Missing account, empty search, unclear what kind of call — write them anyway with a placeholder in the blank, and ask at the end. Never open with what you need from them, and never as a form or a menu.
 
 ## The anchor
 
@@ -54,7 +54,7 @@ Worked shape (same structure, their words):
 >
 > **Listen for:** Who actually ate the surprise — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick.
 
-Close every script with **Listen for** — what a real answer sounds like versus a polite one. Not learning goals, not coaching notes.
+Close every script with **Listen for** — what a real answer sounds like versus a polite one.
 
 Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
 
