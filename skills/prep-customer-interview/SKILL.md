@@ -1,14 +1,14 @@
 ---
 name: prep-customer-interview
 description: >-
-  Finds named people to talk to from support, issues, CRM, analytics, or the
-  repo, then aligns on one thing to learn and drafts 4-5 spoken questions on
-  request. Use when the user needs who to talk to, has a call already scheduled,
-  or wants prep for a support call or screen-share. "Who should I talk to?" /
-  "Prep me for the Acme call." / "I have a call Thursday." / "I want to talk to
-  customers about this." Do not use for past transcripts (extract-customer-insights for what it
-  means, review-interview for how they interviewed) or for pressure-testing
-  the bet (pressure-test-a-bet).
+  Turns a customer conversation into one anchor sentence and 4-5 spoken
+  questions — and finds two or three people likely to react strongly when
+  nobody's named. Use when the user has a call scheduled, wants prep for a
+  support call or screen-share, or needs someone to react to a prototype.
+  "Prep me for the Acme call." / "I have a call Thursday." / "Who should I talk
+  to?" / "I want to talk to customers about this." Do not use for past
+  transcripts (extract-customer-insights for what it means, review-interview for
+  how they interviewed) or for pressure-testing the bet (pressure-test-a-bet).
 ---
 
 # Prep a customer conversation
@@ -25,42 +25,9 @@ of them a demo. Never tell someone to wait until they have something.
 
 Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
 
-Three phases. Skip any that's already done.
+**Always deliver an anchor and questions.** Missing account, empty search, unclear what kind of call — write them anyway with a placeholder in the blank, and ask at the end. Never open with what you need from them, and never as a form or a menu. Nothing is too thin to start from.
 
-## Find (default)
-
-A call already scheduled or coming up — with or without a named account — skips Find. Find is for when there's nobody to talk to yet.
-
-Never open with what you need from them. Lead with the anchor; one question at the end if you're genuinely blocked, not before.
-
-**No named people in tools or the repo → say so.** Ask for a ticket export, a CRM list, or three names they already know. **Never invent accounts.**
-
-Before any questions, search what's available:
-
-- Support / Intercom / Zendesk — last 30 days, this theme, named accounts
-- GitHub / Linear / Jira — customer comments, `customer:` tags, the issue this bet maps to
-- CRM — churn, closed-lost, expansion stalled, who filed the request
-- Analytics if connected — exports, CSV downloads, empty-state workarounds
-- Repo — PRs, issue text, TODO/FIXME naming a customer
-- Mail / calendar / Slack if connected — they may have already talked to someone
-- Canceled tickets, old projects, prior attempts. Already tried ≠ don't build. Why did it die, what's changed, what new data or angle do we have?
-
-**Filter:** hit the problem recently, still doing the workaround, not your biggest fan, not five random logos. Prefer: support-heavy, churned, lost the deal, built the spreadsheet. One power user max — label as such.
-
-**Output — table, then stop:**
-
-| who | evidence | reach | draft |
-|-----|----------|-------|-------|
-
-Three rows. Draft the ask — short, engineer-to-human:
-
-"You mentioned exporting to Excel every Monday in [ticket]. Got 20 minutes this week? I want to see how you do it — I've got a rough version to react to."
-
-Never auto-send. Always draft.
-
-Then: **Want 4 questions + an ask for #1?**
-
-## Align
+## The anchor
 
 One sentence — the thing that, if wrong, changes what you'd build. Not a list of "learning goals."
 
@@ -68,11 +35,9 @@ No bet yet is still a call. The anchor becomes what you don't understand about h
 
 This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
 
-Then: **Want 4 questions + an ask?** Nothing else — unless the call is set *and* they asked to prep. Then "prep me" is the request: anchor, then questions, same turn, no gate.
+## The questions
 
-## Script (on request — "prep me" counts)
-
-4–5 questions on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -111,3 +76,24 @@ The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats as
 - "Walk me through the last time this blew up. What did it cost — hours, a tool, an invoice, a person?"
 - "What did you cut last time you had to make room for this?"
 - "Who had to sign off the last time you spent money on it?"
+
+## Who'll react
+
+They need reactions to a specific thing, not a representative sample. Three to five people who'll have a strong one — indifference teaches nothing.
+
+**Start from who they already have.** One or two names is a seed, not a shortfall. Name what makes those two right — built the workaround, churned over it, biggest list, filed the ticket — then find others on that line. Extending a line beats searching a category.
+
+Where the line runs: same ticket theme in support (Intercom, Zendesk), `customer:` tags and comments in GitHub / Linear / Jira, same churn or closed-lost reason in CRM, same usage shape in analytics (exports, CSV downloads, empty states), the repo (PRs, issue text, TODO/FIXME naming a customer), and mail / calendar / Slack — they may have already talked to someone. Canceled tickets and prior attempts count: already tried ≠ don't build.
+
+**Spread the reactions.** Someone who'll want it, someone who'll pick it apart, someone who left. Not your biggest fan, not five random logos, one power user max — label them as such. Five of the same person is one data point.
+
+Three rows, one piece of recent evidence each, then stop. This is a sweep, not a research project.
+
+| who | evidence | reach | draft |
+|-----|----------|-------|-------|
+
+Draft the ask — short, engineer-to-human:
+
+"You mentioned exporting to Excel every Monday in [ticket]. Got 20 minutes this week? I want to see how you do it — I've got a rough version to react to."
+
+**Nothing in the tools → say so.** Ask for a ticket export, a CRM list, or three names they already know. **Never invent accounts.** Never auto-send — always draft.
