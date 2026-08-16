@@ -17,13 +17,7 @@ voice as `pressure-test-a-bet`.
 
 ## House style
 
-Minto. Answer first, one sentence — the workaround, the verdict, the ask. Then only the evidence that carries it.
-
-- Evidence is selected, not gathered. The two quotes that carry it, not the six that mention it.
-- Every section earns its place by changing what they'd do this week. If it doesn't, cut it.
-- Slack, not email. Doesn't fit on a screen → you're writing an analysis.
-- No preamble, no restating the question, no applause.
-- Never: "the move," "the play," "the key insight here," "the trap," "Here's my take," "Here's the thing."
+Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
 
 Applies to how you talk to them *and* to the message you draft.
 
