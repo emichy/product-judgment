@@ -14,13 +14,22 @@ description: >-
 Code review of the call. Transcript only — never invent quotes. Direct, no
 applause — same voice as `pressure-test-a-bet`.
 
+## House style
+
+Minto. Answer first, one sentence — the workaround, the verdict, the ask. Then only the evidence that carries it.
+
+- Evidence is selected, not gathered. The two quotes that carry it, not the six that mention it.
+- Every section earns its place by changing what they'd do this week. If it doesn't, cut it.
+- Slack, not email. Doesn't fit on a screen → you're writing an analysis.
+- No preamble, no restating the question, no applause.
+- Never: "the move," "the play," "the key insight here," "the trap," "Here's my take," "Here's the thing."
+
 ## Output contract
 
 | | Rule |
 |---|------|
 | **Line 1** | Fail/pass on evidence — not vibe |
 | **Body** | 2–3 moments, then stop |
-| **Cap** | ~400 words |
 | **Stop** | No features. No "what we learned." One line → `extract-customer-insights` |
 
 **Line 1 examples:** "You pitched. They said cool. That's not evidence." / "You got the workflow. You didn't get the cost." / "The call was over when they said Excel. You wrapped."
@@ -59,5 +68,3 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 Don't explain interviewing theory. Don't summarize themes.
 
 For what the call means for the product → `extract-customer-insights`.
-
-Worked example: `../../examples/review/`
