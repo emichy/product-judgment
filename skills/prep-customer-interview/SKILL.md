@@ -29,7 +29,9 @@ Three phases. Skip any that's already done.
 
 ## Find (default)
 
-If they already have a name on the calendar, say so and skip to Align.
+A call already scheduled or coming up — with or without a named account — skips Find. Find is for when there's nobody to talk to yet.
+
+Never open with what you need from them. Lead with the anchor; one question at the end if you're genuinely blocked, not before.
 
 **No named people in tools or the repo → say so.** Ask for a ticket export, a CRM list, or three names they already know. **Never invent accounts.**
 
@@ -66,9 +68,9 @@ No bet yet is still a call. The anchor becomes what you don't understand about h
 
 This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
 
-Then: **Want 4 questions + an ask?** Nothing else.
+Then: **Want 4 questions + an ask?** Nothing else — unless the call is set *and* they asked to prep. Then "prep me" is the request: anchor, then questions, same turn, no gate.
 
-## Script (on request only)
+## Script (on request — "prep me" counts)
 
 4–5 questions on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
