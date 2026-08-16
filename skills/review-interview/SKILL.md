@@ -5,8 +5,10 @@ description: >-
   Use when the user asks how the call went, what they missed, where they led the
   customer, or how to interview better. "What did I miss?" / "How did I do on
   this call?" / "Grade this interview." / "How can I ask better customer
-  questions?" Do not use when they want what the call means for the product, insights, or what ticket to file
-  (extract-customer-insights), or to pressure-test a bet (pressure-test-a-bet).
+  questions?" A transcript pasted with no stated ask starts here, then offer
+  extract-customer-insights. Do not use when they want what the call means for
+  the product, insights, or what ticket to file (extract-customer-insights), or
+  to pressure-test a bet (pressure-test-a-bet).
 ---
 
 # Review an interview

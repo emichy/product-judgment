@@ -5,8 +5,10 @@ description: >-
   quoted proof — then triangulates against tickets, CRM, issues, or the
   repo. Use when the user wants insights from a call, what it means, whether
   signal is a pattern, or what ticket to file. "Extract some insights." /
-  "What did we learn?" / "What does this mean?" Do not use for coaching how
-  they interviewed (review-interview).
+  "What did we learn?" / "What does this mean?" / "What do we do with this
+  call?" A transcript pasted with no stated ask starts with review-interview,
+  which then offers this. Do not use for coaching how they interviewed
+  (review-interview).
 ---
 
 # Extract customer insights

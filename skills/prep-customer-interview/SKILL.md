@@ -3,10 +3,10 @@ name: prep-customer-interview
 description: >-
   Finds named people to talk to from support, issues, CRM, analytics, or the
   repo, then aligns on one thing to learn and drafts 4-5 spoken questions on
-  request. Use when the user needs who to talk to, has a call coming up, or
-  wants prep for a support call or screen-share. "Who should I talk to?" /
-  "Prep me for the Acme call." / "Which customers or prospects should I talk
-  to?" Do not use for past transcripts (extract-customer-insights for what it
+  request. Use when the user needs who to talk to, has a call already scheduled,
+  or wants prep for a support call or screen-share. "Who should I talk to?" /
+  "Prep me for the Acme call." / "I have a call Thursday." / "I want to talk to
+  customers about this." Do not use for past transcripts (extract-customer-insights for what it
   means, review-interview for how they interviewed) or for pressure-testing
   the bet (pressure-test-a-bet).
 ---

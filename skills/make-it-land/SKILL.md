@@ -1,13 +1,15 @@
 ---
 name: make-it-land
 description: >-
-  Shapes internal product messages — CEO updates, bet pitches, resource asks —
-  anchored on observed customer behavior. Use when the user needs buy-in, a
-  founder update, or help turning rambling into a clear decision request.
-  "Help me pitch this to my CEO." / "Make this land." / "Status that isn't a
-  changelog." Do not use for customer interviews (prep-customer-interview,
-  review-interview, extract-customer-insights) or for figuring out the bet
-  (pressure-test-a-bet).
+  Shapes an internal message so a sound bet survives contact with leadership —
+  roadmap framing, a founder or exec update, a resource ask — anchored on
+  observed customer behavior. Use when the thinking is right but the telling is
+  diluting it. "Help my CEO understand this bet." / "How do I frame this for the
+  roadmap?" / "Make this land." / "Status that isn't a changelog." Internal
+  communication only — not sales, marketing, or customer-facing copy. If the bet
+  itself is still fuzzy, use pressure-test-a-bet first. Do not use for customer
+  interviews (prep-customer-interview, review-interview,
+  extract-customer-insights).
 ---
 
 # Make it land
