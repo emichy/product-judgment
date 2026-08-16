@@ -17,13 +17,15 @@ Working session, not an interview guide. Engineers grab 20 minutes — maybe on 
 support call, maybe sharing a screen. Same evidence bar as `pressure-test-a-bet`:
 current behavior, not hypotheticals.
 
-Three phases. Skip any that's already done.
+The trigger is a question, not a launch. "I'll talk to customers when I have
+something to show" is how an engineer ends up with one call a quarter, every one
+of them a demo. Never tell someone to wait until they have something.
 
-| Phase | Job | Stop |
-|-------|-----|------|
-| **Find** | Named people, with evidence | 3 names, not a persona |
-| **Align** | One anchor sentence | "Want 4 questions + an ask?" |
-| **Script** | 4–5 questions, spoken English | On request only |
+## House style
+
+Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
+
+Three phases. Skip any that's already done.
 
 ## Find (default)
 
@@ -60,13 +62,15 @@ Then: **Want 4 questions + an ask for #1?**
 
 One sentence — the thing that, if wrong, changes what you'd build. Not a list of "learning goals."
 
+No bet yet is still a call. The anchor becomes what you don't understand about how they work, and the whole thing runs generative. Don't manufacture a bet to justify the conversation.
+
 This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
 
 Then: **Want 4 questions + an ask?** Nothing else.
 
 ## Script (on request only)
 
-4–5 questions. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 questions on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. Spoken English. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -79,30 +83,29 @@ Worked shape (same structure, their words):
 > 3. "If I asked you to pull your current usage right now — how easily could you do that?"
 > 4. "When that surprise hit, who had to deal with it — you, finance, your boss?"
 > 5. "What made you want to take this call now?"
+> 6. "Nothing to do with alerts — what's the most annoying part of running this account month to month?"
+>
+> **Listen for:** Who actually ate the surprise — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick.
+
+Close every script with **Listen for** — what a real answer sounds like versus a polite one. Not learning goals, not coaching notes.
 
 Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
-
-Sound like a person: "walk me through your workflow" → "What tools are in the mix right now?" / "primary pain points" → "What's the most annoying part?"
 
 Early-stage bets may begin with founder or customer pull before a pattern exists. Don't launder that into proof — use the call to sharpen it.
 
 **Skeleton keys** (pick, don't print the list):
 - "Walk me through the last time." No specific moment = weaker evidence, not necessarily no problem.
 - "What did you end up doing?" Workaround = spec.
-- "What happened right before that?" Then one step earlier.
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
-- "When did this start?" When gets a story. Why gets a thesis.
 
-Vague answer → move on. Detail or frustration → "Say more."
+**They shrug at the feature — that's the answer, not a failed call.** Stop testing it, don't sell harder. Spend the rest of the time on their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?" You booked 20 minutes to learn something and you still have 15 of them.
 
 ## Stakes (never "would you pay")
 
 The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats asking if they'd pay.
 
-- "Walk me through the last time this blew up. What did it cost — hours, a tool, an invoice, a person?"
 - "What are you paying for this today? Not hypothetically — the spreadsheet, the contractor, the other product."
-- "If I asked you to pull that up right now, could you?"
+- "Walk me through the last time this blew up. What did it cost — hours, a tool, an invoice, a person?"
 - "What did you cut last time you had to make room for this?"
 - "Who had to sign off the last time you spent money on it?"
-- "The Monday Excel file — whose time is that, and what don't they do instead?"
