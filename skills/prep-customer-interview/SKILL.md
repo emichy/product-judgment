@@ -27,7 +27,14 @@ turn up unexpected insights.
 
 Answer first, in one sentence. Then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
 
-**Always deliver an anchor and questions.** Missing account, empty search, unclear what kind of call — write them anyway with a placeholder in the blank, and ask at the end. Never open with what you need from them, and never as a form or a menu.
+## Output contract
+
+| When | Deliver |
+|------|---------|
+| **Always** | The anchor, one sentence. Never open with what you need from them, and never as a form or a menu. |
+| **Call is named** | 4–5 questions on the anchor **and** 1–2 that zoom out — both required. Then `Listen for`. Skip Who'll react unless they ask who else. |
+| **Nobody named** | Who'll react table and the drafted ask. Skip the script — there's no call to prep yet. |
+| **Unclear which** | Take the named-call path with a placeholder in the blank. Never ask which they wanted. |
 
 ## The anchor
 
@@ -39,7 +46,7 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor, plus one or two that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -96,7 +103,7 @@ Three rows, one piece of recent evidence each, then stop. A sweep, not a researc
 | who | evidence | reach | draft |
 |-----|----------|-------|-------|
 
-Draft the ask — short, engineer-to-human:
+The drafted ask is the deliverable here, not a script — short, engineer-to-human, one skeleton key inside it:
 
 "You mentioned exporting to Excel every Monday in [ticket]. Got 20 minutes this week? I want to see how you do it — I've got a rough version to react to."
 
