@@ -48,7 +48,7 @@ Read where they are. If stuck, they skipped a step — name it.
 
 1. **Solution → Problem.** They arrived with a solution. What's the problem? Who has it? What triggered this?
 2. **Problem → Job.** What are they actually trying to do? What's breaking?
-3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. If we can name the business consequence, do. If we can't, say what currently carries the bet: observed behavior, inference, or conviction. They're already paying. Find that number (time, tool, people) before you talk price.
+3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. If we can name the business consequence, do. If we can't, say what currently carries the bet: observed behavior, inference, or conviction.
 4. **Argument → Attack plan.** Smallest thing that teaches something. What are we *not* doing? How test, ship, measure?
 5. **Attack plan → Pitch.** Shape it for a ticket overview or founder conversation. (`make-it-land` if they need the message.)
 
@@ -99,9 +99,3 @@ Already tried it ≠ don't build it. Why did it die, what's changed, what new an
 **Building to avoid the conversation.** Code is comfortable. "What will building teach you that asking or showing wouldn't, faster?"
 
 **Roadmap hostage.** One big logo pulling the roadmap. "If they churned tomorrow, would we still build this?"
-
-**Power user trap.** Loudest Slack/GitHub voice is the worst teacher for what new users need.
-
-**Nice-to-have plateau.** Liked but not needed. "What would make someone furious if we took this away?"
-
-**Buyer vs. user** — only when someone else writes the check. Who feels the pain vs. who approves the spend?
