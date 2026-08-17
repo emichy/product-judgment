@@ -30,9 +30,9 @@ Search findings live in Triangulate. Never in Proof, never in Other signals.
 | **2** | Proof: two or three quotes on the lede, the ones with a consequence. Then one sentence of label, max. No paragraph after the quotes. Label anything beyond the tape as inference or read. Vibe is allowed; invented certainty isn't. |
 | **3** | One bet card, on the workaround with the cost. If that isn't what they came to test, say both in a line: "They shrugged at alerts; the cost is month-end in finance." Other signals: at most three, one sentence each. No account lists, no filing briefs, no second bet. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
-| **5** | One sentence read, one sentence flip. Don't restate the bet card. Two bets means you picked a second card they didn't ask for. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
+| **5** | One sentence read, one sentence flip. Don't restate the bet card. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
 
-Anything about how they work keeps its line even when it changes nothing this week. That's the half of the call an engineer can't get from a demo.
+Anything about how they work keeps its line even when it changes nothing this week.
 
 ## Bet card
 
