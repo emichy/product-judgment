@@ -50,8 +50,9 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 
 **Did well:** one concrete thing — not rapport.
 
-**Engineer misses to flag:**
+**Misses to flag:**
 - Asked instead of showed — had a prototype/PR/screen and ran a survey
+- Never widened out — every question tested the anchor, nothing came back they didn't already suspect
 - Signal was late — gold quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
 - Would-you-pay — always yes. Instead: what they already spend (hours, tool, invoice, who signs). Not a better hypothetical. See `prep-customer-interview` Stakes.
 - Story or summary? "We usually" without a moment = summary.
@@ -60,6 +61,6 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 
 **Close:** the one question or thing to show that would've cracked it open.
 
-Don't explain interviewing theory. Don't summarize themes.
+Don't explain interviewing theory.
 
 For what the call means for the product → `extract-customer-insights`.
