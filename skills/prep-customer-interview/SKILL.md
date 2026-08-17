@@ -22,9 +22,7 @@ something to show" is how an engineer ends up with one call a quarter, every one
 of them a demo. Never tell someone to wait until they have something.
 
 Customer conversations usually do two jobs: get a reaction to something, and
-turn up insight nobody went looking for. A clear verdict on the prototype is a
-good outcome — take it. But most engineers only ever run the first, and the
-second costs nothing extra in the same twenty minutes.
+turn up unexpected insights.
 
 ## House style
 
