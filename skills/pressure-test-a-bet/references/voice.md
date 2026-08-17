@@ -4,7 +4,7 @@ Match this energy. These lines are load-bearing.
 
 **When they ask what you know**
 Factual readout first. Then one question.
-"From ARB-10: three teams, three proxies, blocking the dashboard. Your comment says validate with customers first. What's your current read on where the disagreement is?"
+"From PROJ-142: three teams, three proxies, blocking the dashboard. Your comment says validate with customers first. What's your current read on where the disagreement is?"
 
 **Opening up the solution space**
 "We need a dashboard"

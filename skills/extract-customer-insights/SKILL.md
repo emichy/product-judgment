@@ -44,19 +44,19 @@ Anything about how they work keeps its line even when it changes nothing this we
 
 *Sharp:*
 
-> Right now they personalize the embed with a Salesforce → category-ID lookup table, one row per entitlement combo — and the combinatorics are why it still isn't shipped.
+> Right now they catch budget overruns by exporting usage every Monday and eyeballing the diff — the month nobody ran it is why finance owns the number now.
 >
-> "We'll have a lookup table… this is what we say in Salesforce, here are the category IDs." / "Categories I would never send over. Like reporting." Eighteen months, second-or-third priority, no data model.
+> "I pull the CSV Monday mornings and compare it to last week." / "Finance found it before we did. That was a bad meeting." Eighteen months of Mondays, still nobody's automated it.
 >
-> **Behavior:** personalize per account → hand-built lookup table — "one row per entitlement combo"
-> **Assumption:** categories are an authoring taxonomy conscripted as entitlements
-> **Test:** the Salesforce payload, already asked for on the call
+> **Behavior:** catch overruns → manual Monday export and diff — "I pull the CSV Monday mornings"
+> **Assumption:** the job is early warning, not reporting
+> **Test:** the export itself — one person, one file, we can watch it without asking
 >
-> Two embeds is a real install cost. Unread on the popup — six accounts, open. They shrug at copy-to-project themselves.
+> Two people run that diff, not one. The threshold they asked us to alert on, nobody could name. They shrug at the dashboard idea themselves.
 >
-> Mapping: Thin. Unread: Corroborated. Portfolio: Inference.
+> Monday diff: Corroborated. Threshold: Thin. Finance ownership: Inference.
 >
-> Read: don't design the lookup until the Salesforce shape is in hand. Flips if that export is already a flat category list.
+> Read: build the warning, not the dashboard. Flips if the Monday export turns out to be a compliance artifact they'd keep either way.
 
 ## Triangulate
 
