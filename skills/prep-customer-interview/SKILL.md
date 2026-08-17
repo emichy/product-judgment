@@ -14,8 +14,8 @@ description: >-
 # Prep a customer conversation
 
 Working session, not an interview guide. Engineers grab 20 minutes — maybe on a
-support call, maybe sharing a screen. Same evidence bar as `pressure-test-a-bet`:
-current behavior, not hypotheticals.
+support call, maybe sharing a screen. Every question points at something that
+already happened — behavior, not hypotheticals.
 
 The trigger is a question, not a launch. Never tell someone to wait until they
 have something to show.
@@ -59,13 +59,14 @@ Worked shape (same structure, their words):
 
 Close every script with **Listen for** — what a real answer sounds like versus a polite one.
 
-Past behavior beats "would you." Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
+Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?"
 
 Early-stage bets may begin with founder or customer pull before a pattern exists. Don't launder that into proof — use the call to sharpen it.
 
 **Skeleton keys** (pick, don't print the list):
 - "Walk me through the last time." No specific moment = weaker evidence, not necessarily no problem.
 - "What did you end up doing?" Workaround = spec.
+- "What made you do it that way?" The alternatives they rejected.
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
