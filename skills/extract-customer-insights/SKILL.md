@@ -5,8 +5,8 @@ description: >-
   quoted proof — then triangulates against tickets, CRM, issues, or the
   repo. Use when the user wants insights from a call, what it means, whether
   signal is a pattern, or what ticket to file. "Extract some insights." /
-  "What did we learn?" / "What does this mean?" Do not use for coaching how
-  they interviewed (review-interview).
+  "What did we learn?" / "What does this mean?" / "What do we do with this
+  call?" Do not use for coaching how they interviewed (review-interview).
 ---
 
 # Extract customer insights
@@ -26,7 +26,7 @@ Minto: answer first in one sentence, then only the evidence that carries it. Evi
 | **2** | Proof: quote observed behavior exactly — two or three on the lede, the ones with a consequence. Not every mention. Label anything beyond the tape as inference or read. Vibe is allowed; invented certainty isn't. |
 | **3** | Lead with the workaround that has cost. One bet card on that. Other signals: one line each — the signal *and* what it would change. Changes nothing this week → cut it. No card unless they ask. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
-| **5** | Stop with the current read in one line and what would flip it. The bet card already carried the assumption and the test — don't restate them. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
+| **5** | Stop with the current read in one line and what would flip it. Don't restate the bet card. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
 
 ## Bet card
 

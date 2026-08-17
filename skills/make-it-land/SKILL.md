@@ -1,13 +1,15 @@
 ---
 name: make-it-land
 description: >-
-  Shapes internal product messages — CEO updates, bet pitches, resource asks —
-  anchored on observed customer behavior. Use when the user needs buy-in, a
-  founder update, or help turning rambling into a clear decision request.
-  "Help me pitch this to my CEO." / "Make this land." / "Status that isn't a
-  changelog." Do not use for customer interviews (prep-customer-interview,
-  review-interview, extract-customer-insights) or for figuring out the bet
-  (pressure-test-a-bet).
+  Shapes an internal message so a sound bet survives the retelling — explaining
+  the roadmap to the team, a founder or exec update, a resource ask — anchored
+  on observed customer behavior. Use when the thinking is right but the telling
+  is diluting it. "Help my CEO understand this bet." / "Explain the quarterly
+  roadmap to the team." / "How do I frame this for the roadmap?" / "Make this
+  land." Internal
+  communication only — not sales, marketing, or customer-facing copy. Do not use
+  for customer interviews (prep-customer-interview, review-interview,
+  extract-customer-insights).
 ---
 
 # Make it land
@@ -46,6 +48,6 @@ One proof point if available: ticket count, anonymized quote, or metric.
 
 **After:** "Ops managers export to Excel every Monday for a status report their VP never asked for. Ask: one sprint on visibility-without-export, or does [other bet] win? Need a call by Friday."
 
-**Before:** "We should build a Salesforce integration, customers keep asking."
+**Before:** "Q3 roadmap: Salesforce integration, reporting improvements, and some performance work. Let me know if you have questions."
 
-**After:** "Reps copy-paste deal notes because context doesn't travel — 3 of 5 recent churns dropped off when deals got complex. Ask: two weeks on bidirectional sync for the top 10 accounts, or does [other bet] win?"
+**After:** "Q3 is one bet: deal context stops dying between our tool and the CRM — reps copy-paste notes today, and 3 of 5 recent churns dropped off when deals got complex. Reporting and perf slip to Q4. Say something now if that breaks a commitment you've made."
