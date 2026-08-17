@@ -21,9 +21,10 @@ The trigger is a question, not a launch. "I'll talk to customers when I have
 something to show" is how an engineer ends up with one call a quarter, every one
 of them a demo. Never tell someone to wait until they have something.
 
-Every call has two jobs: test what they brought, and find what they didn't know
-to ask about. A call that only rates the prototype returns a verdict and no
-insight.
+Customer conversations usually do two jobs: get a reaction to something, and
+turn up insight nobody went looking for. A clear verdict on the prototype is a
+good outcome — take it. But most engineers only ever run the first, and the
+second costs nothing extra in the same twenty minutes.
 
 ## House style
 
