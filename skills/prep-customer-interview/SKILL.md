@@ -17,9 +17,8 @@ Working session, not an interview guide. Engineers grab 20 minutes — maybe on 
 support call, maybe sharing a screen. Same evidence bar as `pressure-test-a-bet`:
 current behavior, not hypotheticals.
 
-The trigger is a question, not a launch. "I'll talk to customers when I have
-something to show" is how an engineer ends up with one call a quarter, every one
-of them a demo. Never tell someone to wait until they have something.
+The trigger is a question, not a launch. Never tell someone to wait until they
+have something to show.
 
 Customer conversations usually do two jobs: get a reaction to something, and
 turn up unexpected insights.
@@ -34,13 +33,13 @@ Minto: answer first in one sentence, then only the evidence that carries it. Evi
 
 One sentence — the thing that, if wrong, changes what you'd build. Not a list of "learning goals."
 
-No bet yet is still a call. The anchor becomes what you don't understand about how they work, and the whole thing runs generative. Don't manufacture a bet to justify the conversation.
+No bet yet is still a call. The anchor becomes what you don't understand about how they work. Don't manufacture a bet to justify the conversation.
 
 This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
 
 ## The questions
 
-4–5 on the anchor, plus one or two that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. The anchor questions can only confirm or kill what they already suspected; the wide ones are the second job — where insights you weren't looking for turn up. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor, plus one or two that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -70,7 +69,7 @@ Early-stage bets may begin with founder or customer pull before a pattern exists
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
-**They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it. Don't sell harder, don't push the same line again in different words. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?" You booked 20 minutes to learn something and you still have 15 of them.
+**They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it. Don't sell harder, don't push the same line again in different words. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?"
 
 ## Stakes (never "would you pay")
 
@@ -85,13 +84,13 @@ The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats as
 
 They need reactions to a specific thing, not a representative sample. Three to five people with enough at stake to react either way.
 
-**Start from who they already have.** One or two names is a seed, not a shortfall. Name what makes those two right — built the workaround, churned over it, biggest list, filed the ticket — then find others on that line. Extending a line beats searching a category.
+**Start from who they already have.** One or two names is a seed. Name what makes those two right — built the workaround, churned over it, biggest list, filed the ticket — then find others on that line.
 
 Where the line runs: same ticket theme in support (Intercom, Zendesk), `customer:` tags and comments in GitHub / Linear / Jira, same churn or closed-lost reason in CRM, same usage shape in analytics (exports, CSV downloads, empty states), the repo (PRs, issue text, TODO/FIXME naming a customer), and mail / calendar / Slack — they may have already talked to someone. Canceled tickets and prior attempts count: already tried ≠ don't build.
 
-**Spread the reactions.** Someone who'll want it, someone who'll pick it apart, someone who left. Not your biggest fan, not five random logos, one power user max — label them as such. Five of the same person is one data point.
+**Spread the reactions.** Someone who'll want it, someone who'll pick it apart, someone who left. Not your biggest fan, not five random logos, one power user max — label them as such.
 
-Three rows, one piece of recent evidence each, then stop. This is a sweep, not a research project.
+Three rows, one piece of recent evidence each, then stop. A sweep, not a research project.
 
 | who | evidence | reach | draft |
 |-----|----------|-------|-------|
