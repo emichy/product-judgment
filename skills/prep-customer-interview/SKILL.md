@@ -23,7 +23,7 @@ of them a demo. Never tell someone to wait until they have something.
 
 Every call has two jobs: test what they brought, and find what they didn't know
 to ask about. A call that only rates the prototype returns a verdict and no new
-ideas — that's the one an engineer regrets a month later.
+ideas.
 
 ## House style
 
@@ -41,7 +41,7 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor, plus one or two that have nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor ones are the second job — the only place a new idea can come from. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor, plus one or two that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. The anchor questions can only confirm or kill what they already suspected; the wide ones are the second job, the only place a new idea comes from. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -54,10 +54,10 @@ Worked shape (same structure, their words):
 > 3. "If I asked you to pull your current usage right now — how easily could you do that?"
 > 4. "When that surprise hit, who had to deal with it — you, finance, your boss?"
 > 5. "What made you want to take this call now?"
-> 6. "Nothing to do with alerts — what's the most annoying part of running this account month to month?"
+> 6. "Forget alerts for a second — walk me through a normal month running this account. Where does the time go?"
 > 7. "What's the thing you've just accepted as how it works, that you'd change if you could?"
 >
-> **Listen for:** Who actually ate the surprise — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick.
+> **Listen for:** Who actually ate the surprise — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick. On the wide ones, anything they describe as just how it is — that's where the next idea is.
 
 Close every script with **Listen for** — what a real answer sounds like versus a polite one.
 
