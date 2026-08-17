@@ -55,7 +55,7 @@ Worked shape (same structure, their words):
 > 6. "Forget alerts for a second — walk me through a normal month running this account. Where does the time go?"
 > 7. "What's the thing you've just accepted as how it works, that you'd change if you could?"
 >
-> **Listen for:** Who took the hit — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick. On the wide ones, anything they describe as just how it is. That's an insight, not a feature request — the idea is still yours to make.
+> **Listen for:** Who took the hit — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick. On the wide ones, anything they describe as just how it is.
 
 Close every script with **Listen for** — what a real answer sounds like versus a polite one.
 

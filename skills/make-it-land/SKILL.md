@@ -1,11 +1,12 @@
 ---
 name: make-it-land
 description: >-
-  Shapes an internal message so a sound bet survives contact with leadership —
-  roadmap framing, a founder or exec update, a resource ask — anchored on
-  observed customer behavior. Use when the thinking is right but the telling is
-  diluting it. "Help my CEO understand this bet." / "How do I frame this for the
-  roadmap?" / "Make this land." / "Status that isn't a changelog." Internal
+  Shapes an internal message so a sound bet survives the retelling — explaining
+  the roadmap to the team, a founder or exec update, a resource ask — anchored
+  on observed customer behavior. Use when the thinking is right but the telling
+  is diluting it. "Help my CEO understand this bet." / "Explain the quarterly
+  roadmap to the team." / "How do I frame this for the roadmap?" / "Make this
+  land." Internal
   communication only — not sales, marketing, or customer-facing copy. Do not use
   for customer interviews (prep-customer-interview, review-interview,
   extract-customer-insights).
