@@ -69,7 +69,7 @@ Early-stage bets may begin with founder or customer pull before a pattern exists
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
-**They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it. Don't sell harder, don't push the same line again in different words. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?"
+**They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it — the same question in different words gets the same answer. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?"
 
 ## Stakes (never "would you pay")
 
