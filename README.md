@@ -20,6 +20,8 @@ Quick install into Claude Code, Claude Desktop, Cursor.
 
 Not a coach, not a spec writer, no frameworks, no templates. Scrappy skills that put engineers next to their customers.
 
+Judgment, not process — the decisions where there's often no metric to check against.
+
 ## Install
 
 ### 1. As a plugin
