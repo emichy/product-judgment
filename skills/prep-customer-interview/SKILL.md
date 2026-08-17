@@ -21,6 +21,10 @@ The trigger is a question, not a launch. "I'll talk to customers when I have
 something to show" is how an engineer ends up with one call a quarter, every one
 of them a demo. Never tell someone to wait until they have something.
 
+Every call has two jobs: test what they brought, and find what they didn't know
+to ask about. A call that only rates the prototype returns a verdict and no new
+ideas — that's the one an engineer regrets a month later.
+
 ## House style
 
 Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
@@ -37,7 +41,7 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor, plus one that has nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor one is where the surprise comes from. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor, plus one or two that have nothing to do with it. The anchor questions can only confirm or kill what they already suspected; the off-anchor ones are the second job — the only place a new idea can come from. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -51,6 +55,7 @@ Worked shape (same structure, their words):
 > 4. "When that surprise hit, who had to deal with it — you, finance, your boss?"
 > 5. "What made you want to take this call now?"
 > 6. "Nothing to do with alerts — what's the most annoying part of running this account month to month?"
+> 7. "What's the thing you've just accepted as how it works, that you'd change if you could?"
 >
 > **Listen for:** Who actually ate the surprise — them, or finance. Whether the workaround is manual or nothing at all. If they go vague on the moment, the pain didn't stick.
 
