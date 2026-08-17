@@ -17,7 +17,7 @@ applause — same voice as `pressure-test-a-bet`.
 
 ## House style
 
-Minto: answer first in one sentence, then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
+Answer first, in one sentence. Then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the key insight here" / "Here's my take."
 
 ## Output contract
 
@@ -27,7 +27,7 @@ Minto: answer first in one sentence, then only the evidence that carries it. Evi
 | **Body** | 2–3 moments, then stop |
 | **Stop** | No features. No "what we learned." One line → `extract-customer-insights` |
 
-**Line 1 examples:** "You pitched. They said cool. That's not evidence." / "You got the workflow. You didn't get the cost." / "The call was over when they said Excel. You wrapped."
+**Line 1 examples:** "You pitched. They said cool. That's not evidence." / "You got a reaction to the thing. You didn't get how they work." / "You got the workflow. You didn't get the cost." / "The call was over when they said Excel. You wrapped."
 
 ## The bar
 
@@ -59,7 +59,7 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 - They talked more than ~30% — say so.
 - Prep miss — one line if searchable context existed before the call
 
-**Close:** the one question or thing to show that would've cracked it open.
+**Close:** the wide question they never asked — or the thing to show that would've cracked it open.
 
 Don't explain interviewing theory.
 

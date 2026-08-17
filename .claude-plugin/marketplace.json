@@ -10,7 +10,7 @@
       "name": "product-judgment",
       "displayName": "Product Judgment",
       "source": "./",
-      "version": "0.2.3",
+      "version": "0.4.1",
       "description": "Product judgment for product engineers who own the bet. Paste a feature request, a call transcript, or which customers to talk to — leave with a bet you can defend, better questions, or the ask that unblocks.",
       "logo": "./logo.svg"
     }
