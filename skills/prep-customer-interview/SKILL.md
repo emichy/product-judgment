@@ -33,7 +33,7 @@ Answer first, in one sentence. Then only the evidence that carries it. Evidence 
 |------|---------|
 | **Always** | The anchor, one sentence. Never open with what you need from them, and never as a form or a menu. |
 | **Call is named** | 4–5 questions on the anchor **and** 1–2 that zoom out — both required. Then `Listen for`. Skip Who'll react unless they ask who else. |
-| **Nobody named** | Who'll react table and the drafted ask. Skip the script — there's no call to prep yet. |
+| **Nobody named** | Who'll react table and the drafted ask. Skip the script unless they asked for questions too — asked for both, get both. |
 | **Unclear which** | Take the named-call path with a placeholder in the blank. Never ask which they wanted. |
 
 ## The anchor
