@@ -6,7 +6,8 @@ description: >-
   repo. Use when the user wants insights from a call, what it means, whether
   signal is a pattern, or what ticket to file. "Extract some insights." /
   "What did we learn?" / "What does this mean?" / "What do we do with this
-  call?" Do not use for coaching how they interviewed (review-interview).
+  call?" / "What do these calls have in common?" Do not use for coaching how
+  they interviewed (review-interview).
 ---
 
 # Extract customer insights
@@ -57,6 +58,16 @@ Anything about how they work keeps its line even when it changes nothing this we
 > Monday diff: Corroborated. Threshold: Thin. Finance ownership: Inference.
 >
 > Read: build the warning, not the dashboard. Flips if the Monday export turns out to be a compliance artifact they'd keep either way.
+
+## Several calls
+
+Two or more transcripts → same contract, counted.
+
+- Line 1 carries a count and who it's out of. Pull or shrug, either is the signal: "3 of 5 catch overruns with a Monday export" and "4 of 5 shrugged at the dashboard" are equally worth leading with.
+- One call says it → not the lede. It goes in Other signals, named.
+- A call with no behavior — no workflow, no real moment — counts toward nothing. Say how many dropped out.
+- Split, don't average. Same outcome, different workaround → two lines, not one fuzzy one.
+- Close with what none of the calls answered → `prep-customer-interview`.
 
 ## Triangulate
 
