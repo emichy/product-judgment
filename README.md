@@ -18,9 +18,9 @@ Quick install into Claude Code, Claude Desktop, Cursor.
 | `extract-customer-insights` | What the call means for the product |
 | `make-it-land` | Internal ask that has to move a decision |
 
-Not a coach, not a spec writer, no frameworks, no templates. Scrappy skills that put engineers next to their customers.
+Engineers with deep conviction — because they understand the customer signal — ship stronger work, faster.
 
-Judgment, not process — the decisions where there's often no metric to check against.
+No specs. No frameworks. Not a PM in a box. These skills don't think for you; they get you to the customer faster, and back to the code with something real.
 
 ## Install
 
