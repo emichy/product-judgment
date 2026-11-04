@@ -29,7 +29,7 @@ Search findings live in Triangulate. Never in Proof, never in Other signals.
 |------|---------|
 | **1** | Line 1: Right now they [job] by [workaround] — whichever workaround carries the cost, not the one they came to test. Observed only; a read like "they know it breaks" is Assumption or a quote, not Line 1. Can't say it → say you don't have an insight yet. |
 | **2** | Proof: two or three quotes on the lede, the ones with a consequence. Then one sentence of label, max. No paragraph after the quotes. Label anything beyond the tape as inference or read. Vibe is allowed; invented certainty isn't. |
-| **3** | One bet card, on the workaround with the cost. If that isn't what they came to test, say both in a line: "They shrugged at alerts; the cost is month-end in finance." Other signals: at most three, one sentence each. No account lists, no filing briefs, no second bet. |
+| **3** | One bet card, on the workaround with the cost. If that isn't what they came to test, say both in a line: "They shrugged at alerts; the cost is month-end in finance." A workaround they're happy with gets no card — they won't switch. Unless it's about to change hands: a re-org, a new owner, a process rebuild. Then name the timing. Other signals: at most three, one sentence each. No account lists, no filing briefs, no second bet. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
 | **5** | One sentence read, one sentence flip. Don't restate the bet card. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
 
