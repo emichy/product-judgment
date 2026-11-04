@@ -84,7 +84,7 @@ Feature requests are solutions. Insight is upstream: "Walk me through the last t
 
 The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics means intuition is carrying more weight than evidence. Name that without dismissing the bet.
 
-How often does this job happen, and what breaks when it goes wrong? The alternative is what they do today — not the competitor's changelog.
+How often does this job happen, and what breaks when it goes wrong? The alternative is what they do today — not a competitor's feature set. If that already works for them, the bet loses.
 
 Enthusiasm isn't a bet. Did they forward it, ask for access, name a budget, or just nod?
 

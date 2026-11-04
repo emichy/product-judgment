@@ -46,7 +46,7 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
+4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing, what they're in the middle of right now. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
 If they have a prototype, the plan is show it. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -74,10 +74,14 @@ Early-stage bets may begin with founder or customer pull before a pattern exists
 - "Walk me through the last time." No specific moment = weaker evidence, not necessarily no problem.
 - "What did you end up doing?" Workaround = spec.
 - "What made you do it that way?" The alternatives they rejected.
+- "How well does [their workaround] actually work?" Works fine → they won't switch.
+- "What does done look like for you?" Their outcome, in their words.
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
 **They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it — the same question in different words gets the same answer. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?"
+
+Still nothing → describe a pattern you've actually seen and ask if it fits: "Other teams say month-end is where this breaks — is that you, or not really?" Reacting to a story is easier than coming up with one. If that misses too, ask who they know with this problem — that's your next Who'll react row.
 
 ## Stakes (never "would you pay")
 

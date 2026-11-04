@@ -55,6 +55,7 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 - Never widened out — every question tested the anchor, nothing came back they didn't already suspect
 - Signal was late — gold quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
 - Would-you-pay — always yes. Instead: what they already spend (hours, tool, invoice, who signs). Not a better hypothetical. See `prep-customer-interview` Stakes.
+- Assumed the workaround hurts — never asked how well it works. If it works, they won't switch.
 - Story or summary? "We usually" without a moment = summary.
 - They talked more than ~30% — say so.
 - Prep miss — one line if searchable context existed before the call
