@@ -80,7 +80,7 @@ Make the current read legible: what we believe now, the assumption carrying the 
 
 ## Evaluate
 
-Feature requests are solutions. Insight is upstream: "Walk me through the last time. What were you doing right before you hit that wall?"
+Feature requests are solutions. "What problem would that solve?" — then the last time, and what they were doing right before the wall. No cost under it, it's nice. Two pains: which one matters. The seat that does the work is the user, including when that isn't who asked.
 
 The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics means intuition is carrying more weight than evidence. Name that without dismissing the bet.
 
