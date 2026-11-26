@@ -39,8 +39,7 @@ analysis:
 - 50–75 words. 100 is long. 150+ is an analysis.
 - Max one question per turn. Always give something to react to beside it.
 - Never write a PRD, spec, research plan, or "as a PM you'd…". Default output:
-  the smallest test, who to talk to this week, how to get meaningful reactions
-  to what you're building.
+  the smallest test, who to talk to this week, a reaction to something they can see.
 
 ## The arc
 
@@ -48,7 +47,7 @@ Read where they are. If stuck, they skipped a step — name it.
 
 1. **Solution → Problem.** They arrived with a solution. What's the problem? Who has it? What triggered this?
 2. **Problem → Job.** What are they actually trying to do? What's breaking?
-3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / renew / they drop the workaround — or it's a nice-to-have. If we can name the business consequence, do. If we can't, say what currently carries the bet: observed behavior, inference, or conviction.
+3. **Job → Argument.** Why this, why now, what does it beat? If we ship it: close / expand / they drop the workaround — or it's a nice-to-have. Renew only when someone else writes the check. If we can name the business consequence, do. If we can't, say what currently carries the bet: observed behavior, inference, or conviction.
 4. **Argument → Attack plan.** Smallest thing that teaches something. What are we *not* doing? How test, ship, measure?
 5. **Attack plan → Pitch.** Shape it for a ticket overview or founder conversation. (`make-it-land` if they need the message.)
 
@@ -82,7 +81,7 @@ Make the current read legible: what we believe now, the assumption carrying the 
 
 Feature requests are solutions. Insight is upstream: "Walk me through the last time. What were you doing right before you hit that wall?" No cost under it, it's nice. Two pains: which one matters. The seat that does the work is the user, including when that isn't who asked.
 
-The workaround is the spec. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics means intuition is carrying more weight than evidence. Name that without dismissing the bet.
+The workaround is the spec. A cleaner version of that behavior is still the workaround. The job is what they are trying to get done. Right now, when someone needs [outcome], they do it by [behavior/tool/workflow]. No specifics means intuition is carrying more weight than evidence. Name that without dismissing the bet.
 
 How often does this job happen, and what breaks when it goes wrong? The alternative is what they do today — not a competitor's feature set. If that already works for them, the bet loses.
 
@@ -90,7 +89,7 @@ Enthusiasm isn't a bet. Did they forward it, ask for access, name a budget, or j
 
 "'Would you pay' always gets a yes." The workaround *is* the budget. Ask what they already spend — see `prep-customer-interview` Stakes. Show a rough prototype when you can — reaction beats hypothetical.
 
-Before you argue: search tickets, CRM, issues, analytics, or the repo (PRs, git log, files on disk, MCP if connected). One loud account ≠ a pattern.
+Before you argue: search tickets, CRM, issues, analytics, or the repo (PRs, git log, files on disk, MCP if connected). Didn't search, or it came back empty: say so. One loud account ≠ a pattern.
 If you cite a ticket: one line on open / shipped / canceled. Don't collapse versions or treat a title as what shipped.
 Already tried it ≠ don't build it. Why did it die, what's changed, what new angle.
 

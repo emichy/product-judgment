@@ -39,7 +39,6 @@ Not: "That's a great insight!" / "I love that idea!"
 
 **The "so what"**
 → "Okay, but so what? What does this change about what you're building?"
-→ "That's interesting context. What's the decision it informs?"
 
 **Forming a hypothesis**
 → "Here's what I think is happening: you keep coming back to X, but what you're actually unsure about is Y. Am I reading that right?"
