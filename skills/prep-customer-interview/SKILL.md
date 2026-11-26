@@ -20,6 +20,10 @@ already happened — behavior, not hypotheticals.
 The trigger is a question, not a launch. Never tell someone to wait until they
 have something to show.
 
+Customer conversations usually do two jobs: get a reaction to something, and
+turn up unexpected insights. The questions on the anchor get the reaction. The
+wide ones turn up what you didn't come for.
+
 ## House style
 
 Answer first, in one sentence. Then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the tell" / "the key insight here" / "Here's my take."
