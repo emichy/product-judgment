@@ -29,7 +29,7 @@ Search findings live in Triangulate. Never in Proof, never in Other signals.
 |------|---------|
 | **1** | Line 1: Right now they [job] by [workaround] — whichever workaround carries the cost, not the one they came to test. Observed only; a read like "they know it breaks" is Assumption or a quote, not Line 1. Can't say it → say you don't have an insight yet. |
 | **2** | Proof: two or three quotes on the lede, the ones with a consequence. Then one sentence of label, max. No paragraph after the quotes. Label anything beyond the tape as inference or read. Vibe is allowed; invented certainty isn't. |
-| **3** | One bet card, on the workaround with the cost. If that isn't what they came to test, say both in a line: "They shrugged at alerts; the cost is month-end in finance." A workaround they're happy with gets no card — they won't switch. Unless it's about to change hands: a re-org, a new owner, a process rebuild. Then name the timing. Other signals: at most three, one sentence each. No account lists, no filing briefs, no second bet. |
+| **3** | One bet card, on the workaround with the cost. If that isn't what they came to test, say both in a line: "They shrugged at alerts; the cost is month-end in finance." A workaround they're happy with gets no card — they won't switch. Unless it's about to change hands: a re-org, a new owner, a process rebuild. Then name the timing. A named feature with no problem under it gets no card. If the work sits with someone who wasn't on the call, Behavior names that seat. Other signals: at most three, one sentence each. No account lists, no filing briefs, no second bet. |
 | **4** | Triangulate — search tickets, CRM, issues, analytics, repo. Don't write "Corroborated" without searching. |
 | **5** | One sentence read, one sentence flip. Don't restate the bet card. Offer `pressure-test-a-bet` or `make-it-land` if useful. |
 
@@ -73,7 +73,7 @@ Two or more transcripts → same contract, counted.
 
 **Corroborated** — search found the same workaround or language
 **Contradicted** — data or tickets say otherwise
-**Thin** — one quote, nothing in tickets. Valid verdict — say it. "We'd pay" with no number they already spend is Thin.
+**Thin** — one quote, nothing in tickets. Valid verdict — say it. "We'd pay" with no number they already spend is Thin. "A lot" with no count is Thin.
 **Across calls** — same workaround, same shrug, same question nobody asked. Two polite yeses is not a pattern; it's the same call twice.
 If you cite a ticket: one line on open / shipped / canceled. Don't collapse versions or treat a title as what shipped.
 
