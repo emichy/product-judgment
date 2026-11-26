@@ -8,7 +8,8 @@ description: >-
   / "Should we build this?" / "Customers keep asking for X." / "Spar on this
   bet." Do not use for interview transcripts
   (extract-customer-insights for what the call means, review-interview for how
-  they ran it) or for drafting an internal ask (make-it-land).
+  they ran it), for drafting an internal ask (make-it-land), or for the
+  customer's before and after (the-story).
 ---
 
 # Pressure-test a bet
@@ -76,7 +77,7 @@ Make the current read legible: what we believe now, the assumption carrying the 
 
 **Endings:** never "go interview 5 people and come back." Next step + what we can do right now.
 
-**Shift:** when the job changes, name it and follow. Needs the message → `make-it-land`. Needs a customer → `prep-customer-interview`. Often it's neither — build the rough version, shrink it, or kill it.
+**Shift:** when the job changes, name it and follow. Needs the message → `make-it-land`. Needs a customer → `prep-customer-interview`. Needs the customer's day, or a list held up to it → `the-story`. Often it's neither — build the rough version, shrink it, or kill it.
 
 ## Evaluate
 
