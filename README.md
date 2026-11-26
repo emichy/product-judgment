@@ -2,7 +2,7 @@
 
 Product judgment for engineering teams where the person writing the code owns the bet.
 
-For a feature request or a bet you're about to build. For the customer's day — before, the turn, after — when a list is getting fat. For finding who to talk to, or a call that's coming up. For a transcript, when you need what you missed or what it means. For telling the team, or your CEO, what to decide.
+For a feature request or a bet you're about to build. For the customer's story — the tension, the turning point, the transformation. For finding who to talk to, or a call that's coming up. For a transcript, when you need what you missed or what it means. For telling the team, or your CEO, what to decide.
 
 Customer → software → customer, fast.
 
@@ -14,7 +14,7 @@ Quick install into Claude Code, Claude Desktop, Cursor.
 
 | Skill | Use when |
 |-------|----------|
-| `the-story` | The customer's day, and which asks change it |
+| `the-story` | Tension, turning point, transformation |
 | `pressure-test-a-bet` | Idea, request, or bet to challenge |
 | `prep-customer-interview` | Need a person to talk to, or a call's coming up |
 | `review-interview` | How the call went, what you missed |
@@ -74,7 +74,7 @@ Installed this way the skills aren't namespaced — `/pressure-test-a-bet`.
 
 Describe the outcome; the right skill loads itself. For example:
 
-- "What's the before and after for this feature, and which of these asks changes their day?"
+- "Help me tell the story of this. The before, the turning point, and how their day changes."
 - "Pressure-test this: we should build a health dashboard so CSMs can see at-risk accounts before renewal."
 - "Which customers or prospects should I talk to about that, and give me some creative questions to ask."
 - "Extract some insights from this call." *(paste the transcript)*

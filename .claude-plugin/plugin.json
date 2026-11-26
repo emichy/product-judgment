@@ -1,6 +1,6 @@
 {
   "name": "product-judgment",
-  "description": "Product judgment for product engineers who own the bet. Paste a feature request, a call transcript, which customers to talk to, or a list that's getting fat — leave with a bet you can defend, better questions, the customer's before and after, or the ask that unblocks.",
+  "description": "Product judgment for product engineers who own the bet. Paste a feature request, a call transcript, or which customers to talk to — leave with a bet you can defend, the customer's story, better questions, or the ask that unblocks.",
   "version": "0.7.0",
   "author": {
     "name": "Evan Michner"

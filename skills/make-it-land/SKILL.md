@@ -9,7 +9,7 @@ description: >-
   land." Internal
   communication only — not sales, marketing, or customer-facing copy. Do not use
   for customer interviews (prep-customer-interview, review-interview,
-  extract-customer-insights) or for finding the customer's day (the-story).
+  extract-customer-insights) or for finding the customer's story (the-story).
 ---
 
 # Make it land
@@ -52,4 +52,4 @@ One proof point if available: ticket count, anonymized quote, or metric.
 
 **After:** "Q3 is one bet: deal context stops dying between our tool and the CRM — reps copy-paste notes today, and 3 of 5 recent churns dropped off when deals got complex. Reporting and perf slip to Q4. Say something now if that breaks a commitment you've made."
 
-The day isn't in words yet → `the-story`. This skill tells a decision that already has one.
+No story yet → `the-story`. This skill tells a decision that already has one.

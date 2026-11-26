@@ -1,84 +1,62 @@
 ---
 name: the-story
 description: >-
-  Puts a product or a large feature into the customer's day — the before, the
-  turn, and the after — and holds a list up to that day. Use when an engineer
-  or team lead needs the words for why the work exists, or which asks belong.
-  "What's the story?" / "Before and after for this." / "Which of these
-  belongs?" / "Put words to this feature." / "The list is getting fat." Do not
-  use to pressure-test a single bet (pressure-test-a-bet), to prep or read a
-  customer call, or to draft the internal message (make-it-land).
+  Helps an engineer tell the customer's story: the tension, the turning point,
+  and the transformation. Use when the team needs the before and the after, or
+  needs to say no to work that doesn't serve it. "What's the story?" / "Help me
+  explain the customer context." / "Before and after for this." / "Why are we
+  building this?" Do not use to pressure-test a single bet
+  (pressure-test-a-bet), to prep or read a customer call, or to draft the
+  internal message (make-it-land).
 ---
 
 # The story
 
-The customer's day, in words a teammate can picture. Before, the turn, and the after. A feature changes that day, or it waits.
+Help them say the customer's story so a teammate can picture it. The story is the customer: tension, turning point, transformation.
 
-The story is about the customer. Don't explain storytelling.
+A normal day, the moment it can't go on, and how that day looks now. Roadmaps and decks come after that, not before.
+
+Don't teach storytelling. Fill in the story.
 
 ## House style
 
 Answer first, in one sentence. Then only the evidence that carries it. Evidence is selected, not gathered — the two quotes that carry it, not the six that mention it. Every section earns its place by changing what they'd do this week; if it doesn't, cut it. Slack, not email. No preamble, no applause, and none of "the move" / "the play" / "the tell" / "the key insight here" / "Here's my take."
 
-## The bar
+## The spine
 
-Before and after are the same day. A teammate can picture both. A nicer adjective is not an after.
+1. **The world before (tension).** What does a normal day look like before this exists? What tradeoffs are they making? What are they struggling with?
+2. **The turning point.** What happened that made it clear this can't go on?
+3. **The new world (transformation).** How does that same day look now?
 
-The turn is a moment that already happened. No moment in what they gave you: "No turn yet." Don't write one.
+Forward: what transformation do we deliver for this customer?
+Backward: what truth about them made this necessary?
+If those two don't meet, rewrite. The story isn't ready.
 
-Before is what they do and what it costs. Not what they feel. "Users" is not a person. Name the job they do.
+## What you hand back
 
-Told backward, the before is why the product has to exist. If that sentence and the before disagree, rewrite.
+Short enough to say out loud. Their customer, not "users."
 
-## Output contract
+> Before, [customer] felt ___ and struggled with ___.
+> The turning point was ___.
+> And now? [customer] ___.
 
-The day, then the cut. 80 words is enough. 120 is a memo.
+The blanks are a real day. "Felt frustrated by a lack of visibility" is empty. "Felt one step behind every Monday, rebuilding the report in Excel" is a day.
 
-| | Rule |
-|---|------|
-| **Before** | One sentence. The normal day: the workaround, the tradeoff. |
-| **Turn** | One sentence. A real moment, with a consequence. Or "No turn yet." |
-| **After** | One sentence. That same day, different. The claim, not proof. |
-| **Waits** | Asks they brought that don't change the day. Named. Omit if they brought no list. |
-| **This build** | The work in front of them moves the day, or it isn't this story. Omit if they brought no build. |
+Then say which of the work serves that transformation, and what to say no to. Skip it if they didn't bring anything to cut.
 
-No fourth beat.
+Start from one customer they know. The product story is that same story, told a little wider, and only when it still sounds like the customer.
 
-**No shared day** is a finished answer. Two sentences: what the items are, and that they aren't one customer's Tuesday. Don't invent a before to cover them.
+No turning point in what they told you: don't write one. Ask what happened that made this can't go on.
 
-## How a turn goes
+A single bet → `pressure-test-a-bet`. The words for the room, once the story is there → `make-it-land`.
 
-Read first. Repo, board, doc, transcript, whatever they handed you. One sentence on the day the recent work is actually serving. Then the story. Nothing to read: say so.
+## Example
 
-They dumped a product, a feature, or a list: write the whole day. Take the position.
-
-Nothing in hand: ask who is on the other end, what they do instead, and the last time it broke. Then write it. Mark any line that is conviction.
-
-One customer's day stays one customer's day. The same Tuesday elsewhere in the material is what makes it the product's story.
-
-They correct one line: rewrite all three. The day is one piece.
-
-A feature, a migration, an API, a phase: it counts when the person's day is different afterward. Otherwise it waits.
-
-No turn yet, and the before stands: the next move is the moment. Offer `prep-customer-interview`. A bet inside the day that may not be real → `pressure-test-a-bet`. The room needs the words → `make-it-land`. The day is the input, not the Slack message.
-
-## Sharp
-
-> Finance found the overrun before ops did. "That was a bad meeting." Recent work shipped the export, then a Salesforce field.
+> Before, the ops manager felt one step behind every Monday and struggled to rebuild the status report in Excel before the VP walked in.
+> The turning point was finance finding the number first. After that meeting, this can't go on.
+> And now? She walks into Monday with the number already there. Nobody exports.
 >
-> Before, the ops manager exports to Excel every Monday and rebuilds a status report their VP never asked for.
-> The turn was finance finding the number first. That was a bad meeting.
-> After, the VP reads the number in the Monday meeting, and the export doesn't happen.
+> Say no to the dashboard and the Salesforce write-back. They don't serve that. Replacing the export does.
 >
-> Waits: Salesforce write-back. Alert thresholds. A dashboard of anything else.
-> This build moves the day if it replaces the export. The CSV-options pull request isn't this story.
-
-## No shared day
-
-> SOC2, dark mode, and a Salesforce integration for the biggest logo.
->
-> No shared day. SOC2 is a gate, and we don't know whose deal dies without it. Salesforce is one logo. Dark mode doesn't change a Tuesday anyone has.
-
-## Sloppy
-
-"Before, users felt frustrated by a lack of visibility. The turning point was realizing they needed a platform. After, they're empowered and aligned." No day, no moment, nothing anyone stops doing. Any feature fits.
+> Forward: Monday happens without the spreadsheet.
+> Backward: the spreadsheet was how they got through a meeting that had already gone wrong.
