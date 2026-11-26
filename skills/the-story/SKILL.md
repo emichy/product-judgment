@@ -34,23 +34,32 @@ If those two don't meet, rewrite. The story isn't ready.
 
 ## What you hand back
 
-Short enough to say out loud. Their customer, not "users."
+These lines, in this order, then stop.
 
 > Before, [customer] felt ___ and struggled with ___.
 > The turning point was ___.
 > And now? [customer] ___.
+>
+> Say no to ___. It doesn't serve that. ___ does.
+>
+> Forward: ___
+> Backward: ___
 
-The blanks are a real day. "Felt frustrated by a lack of visibility" is empty. "Felt one step behind every Monday, rebuilding the report in Excel" is a day.
+Their customer, not "users." The blanks are a real day. "Felt frustrated by a lack of visibility" is empty. "Felt one step behind every Monday, rebuilding the report in Excel" is a day.
 
-Then say which of the work serves that transformation, and what to say no to. Skip it if they didn't bring anything to cut.
+Before and the turning point come from a customer they know, and from something that happened. "They realized" is not a turning point. No customer, no day, no event: ask who it is, what a normal day looks like, and what happened. Don't write the story from the feature list.
 
-Start from one customer they know. The product story is that same story, told a little wider, and only when it still sounds like the customer.
+And now is the day you are trying to make. Don't tell it as a result that already happened.
 
-No turning point in what they told you: don't write one. Ask what happened that made this can't go on.
+They brought work: the say-no line names it. They brought nothing to cut: drop that line, not the rest.
+
+One customer they know, first. The product story is that same story, a little wider, and only when it still sounds like the customer.
 
 A single bet → `pressure-test-a-bet`. The words for the room, once the story is there → `make-it-land`.
 
 ## Example
+
+They told you finance found the overrun before ops did, and the meeting went badly. They're also building a dashboard and writing deal notes back to Salesforce.
 
 > Before, the ops manager felt one step behind every Monday and struggled to rebuild the status report in Excel before the VP walked in.
 > The turning point was finance finding the number first. After that meeting, this can't go on.
