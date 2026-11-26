@@ -28,7 +28,7 @@ Applies to how you talk to them *and* to the message you draft.
 | | Rule |
 |---|------|
 | **Line 1** | Insight or ask — not warmup |
-| **Deliver** | Slack-length + paragraph version |
+| **Deliver** | Slack-length. A paragraph only when they need something longer than Slack. |
 | **Bounce** | If observed behavior exists, lead with it. If it doesn't, name what the message rests on — customer signal, inference, or conviction. Don't invent proof. |
 
 ## Structure

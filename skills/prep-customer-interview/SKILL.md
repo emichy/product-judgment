@@ -21,7 +21,8 @@ The trigger is a question, not a launch. Never tell someone to wait until they
 have something to show.
 
 Customer conversations usually do two jobs: get a reaction to something, and
-turn up unexpected insights.
+turn up unexpected insights. The questions on the anchor get the reaction. The
+wide ones turn up what you didn't come for.
 
 ## House style
 
@@ -42,13 +43,13 @@ One sentence — the thing that, if wrong, changes what you'd build. Not a list 
 
 No bet yet is still a call. The anchor becomes what you don't understand about how they work. Don't manufacture a bet to justify the conversation.
 
-This call is not to count how many people have the problem. Tickets do that. This call is why it hurts and whether they'd change.
+This call is not to count how many people have the problem. Tickets do that. This call is what it costs them, and whether they'd change.
 
 ## The questions
 
-4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing, what they're in the middle of right now. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…"). A compliment, a feature request, and a polite yes are the same answer: nothing happened.
+4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing, what they're in the middle of right now. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…").
 
-If you can see their account, one question uses a fact from it — the spike, the drop, the ticket, the Monday export. "You ran it last Monday and skipped the one before. What happened?" Their seat changes the read. If you can't tell whether they own the workflow or inherited it, ask what they actually do, then hear the rest through that.
+If you can see their account, one question uses a fact from it — the spike, the drop, the ticket, the Monday export. "You ran it last Monday and skipped the one before. What happened?" If you can't tell whether they own the workflow or inherited it, ask what they actually do, then hear the rest through that.
 
 If they have a prototype, show it and have them talk while they use it. "What do you think?" gets a compliment. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -91,7 +92,7 @@ Still nothing → describe a pattern you've actually seen and ask if it fits: "O
 
 ## Stakes (never "would you pay")
 
-The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats asking if they'd pay.
+The workaround *is* the budget. Mix in one. Watching them skip a step beats asking if they'd pay.
 
 - "What are you paying for this today? Not hypothetically — the spreadsheet, the contractor, the other product."
 - "Walk me through the last time this blew up. What did it cost — hours, a tool, an invoice, a person?"
@@ -100,7 +101,7 @@ The workaround *is* the budget. Mix in 1–2. Watching them skip a step beats as
 
 ## Who'll react
 
-They need reactions to a specific thing, not a representative sample. Three to five people with enough at stake to react either way.
+They need reactions to a specific thing, not a representative sample. Three people with enough at stake to react either way.
 
 **Start from who they already have.** One or two names is a seed. Name what makes those two right — built the workaround, churned over it, biggest list, filed the ticket — then find others on that line.
 

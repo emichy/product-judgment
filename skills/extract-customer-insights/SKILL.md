@@ -77,6 +77,6 @@ Two or more transcripts → same contract, counted.
 **Across calls** — same workaround, same shrug, same question nobody asked. Two polite yeses is not a pattern; it's the same call twice.
 If you cite a ticket: one line on open / shipped / canceled. Don't collapse versions or treat a title as what shipped.
 
-Pull jobs, pains, contradictions from the tape if they're there. No checklist theater.
+No checklist theater.
 
 For how they *ran* the call → `review-interview`.

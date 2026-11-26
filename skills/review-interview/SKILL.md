@@ -56,7 +56,7 @@ Separate the tape from your read. Quotes and behavior are observed; what they im
 - Took the feature — they named a change and you wrote it down. You never got the last time that problem showed up, or which pain matters
 - Wrong seat — they described someone else doing the work and you stayed with them
 - Never widened out — every question tested the anchor, nothing came back they didn't already suspect
-- Signal was late — gold quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
+- Signal was late — the quote landed, then thank-you out. Name it: "The call was over when they said [X]. You wrapped."
 - Would-you-pay — always yes. Instead: what they already spend (hours, tool, invoice, who signs). Not a better hypothetical. See `prep-customer-interview` Stakes.
 - Assumed the workaround hurts — never asked how well it works. If it works, they won't switch.
 - Story or summary? "We usually" without a moment = summary.
