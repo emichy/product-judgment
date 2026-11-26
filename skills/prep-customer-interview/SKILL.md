@@ -46,9 +46,9 @@ This call is not to count how many people have the problem. Tickets do that. Thi
 
 ## The questions
 
-4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing, what they're in the middle of right now. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…"). Don't ask what they think of the product, what they'd change about it, or whether they'd want it.
+4–5 on the anchor. Then 1–2 that zoom out — not off-topic, wider. Same territory, bigger frame: the job the thing sits inside, how their week actually runs, what they've stopped noticing, what they're in the middle of right now. The wide ones are not optional. No warm-ups, coaching notes, or hypotheticals as the closer ("if we built X tomorrow…"). A compliment, a feature request, and a polite yes are the same answer: nothing happened.
 
-If you can see their account, one question names a change you actually saw — a spike, a drop, a ticket, an export. "I noticed X. What drove that?" Their seat changes the read. If you can't tell whether they own the workflow or inherited it, ask what they actually do, then hear the rest through that.
+If you can see their account, one question uses a fact from it — the spike, the drop, the ticket, the Monday export. "You ran it last Monday and skipped the one before. What happened?" Their seat changes the read. If you can't tell whether they own the workflow or inherited it, ask what they actually do, then hear the rest through that.
 
 If they have a prototype, show it and have them talk while they use it. "What do you think?" gets a compliment. If not: last time + workaround + cost + sacrifice. Mix in **one** Stakes question — don't make a money interview.
 
@@ -68,7 +68,7 @@ Worked shape (same structure, their words):
 
 Close every script with **Listen for** — what a real answer sounds like versus a polite one. A compliment, a feature name, or "a lot" is the polite one.
 
-Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?" Then: "Anything else I should have asked?" What they add unprompted is the thing. If they describe someone else doing the work, that person is the user.
+Their words, not your roadmap. Close: "Sounds like the value is X but trust hinges on Y — right?" Then: "What did I miss?" What they add unprompted is the thing. If they describe someone else doing the work, that person is the user.
 
 Early-stage bets may begin with founder or customer pull before a pattern exists. Don't launder that into proof — use the call to sharpen it.
 
@@ -76,14 +76,14 @@ Early-stage bets may begin with founder or customer pull before a pattern exists
 - "Walk me through the last time." No specific moment = weaker evidence, not necessarily no problem.
 - "What did you end up doing?" Workaround = spec.
 - "What made you do it that way?" The alternatives they rejected.
-- "What were you doing right before, and right after?" The sequence is what to build next.
-- "If you did that again, what would you do differently?" Where it broke, and what else they tried.
+- "Walk the steps on either side of it." The sequence is what to build next.
+- "Where did that attempt break, and what did you try after?"
 - "How well does [their workaround] actually work?" Works fine → they won't switch.
 - "What does done look like for you?" Their outcome, in their words.
 - "So what happens if you just… don't?"
 - "What would actually break if we disappeared tomorrow?"
 
-Stay when it gets fuzzy. "A lot" needs a number — "Closer to 10% or 90?" A strong word or a laugh: "What made you say that?" A feature: "What problem would that solve?" No cost under it, it's nice. Two pains: "Which one actually matters?"
+Stay when it gets fuzzy. "A lot" needs a count — times, hours, a percent. A strong word or a laugh: stop. "Say more about that." A feature is a solution. Get the last time that problem showed up. No cost under it, it's nice. Two pains: "Which one actually matters?"
 
 **They shrug at the feature, or the thread just dies — that's the answer, not a failed call.** Stop testing it — the same question in different words gets the same answer. Widen out to their world: "Fair enough — so what *is* the annoying part of [their workflow] right now?"
 

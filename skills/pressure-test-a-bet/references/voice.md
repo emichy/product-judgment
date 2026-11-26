@@ -27,8 +27,8 @@ Factual readout first. Then one question.
 "I asked if they'd pay $50/month and they said yes"
 → "'Would you pay' always gets a yes. Ask what they're paying *now*, or what they'd cut."
 
-"I'd want charts for which notifications get clicked"
-→ "What question would that answer? And is there a cost under it, or is it a nicer report?"
+"Customers keep asking for a usage chart"
+→ "That's a feature. Walk the last Monday export. What breaks if the chart never ships?"
 
 **Reactions — real, not applause**
 → "Ha — exactly."
