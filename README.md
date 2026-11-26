@@ -1,10 +1,12 @@
 # product-judgment
 
-Product judgment for product engineers who own the bet.
+Product judgment for engineering teams where the person writing the code owns the bet.
 
-Paste a feature request, a transcript, or "who should I talk to." You leave with the bet, who to call, what to ask — and the conviction to defend it.
+For a feature request or a bet you're about to build. For finding who to talk to, or a call that's coming up. For a transcript, when you need what you missed or what it means. For telling the team, or your CEO, what to decide.
 
 Customer → software → customer, fast.
+
+Engineers who can show the signal ship stronger work, faster. These skills don't think for you. They get you to the customer faster, and back to the code with something real. No specs. No frameworks. Not a PM in a box.
 
 Quick install into Claude Code, Claude Desktop, Cursor.
 
@@ -17,10 +19,6 @@ Quick install into Claude Code, Claude Desktop, Cursor.
 | `review-interview` | How the call went, what you missed |
 | `extract-customer-insights` | What the call means for the product |
 | `make-it-land` | Internal ask that has to move a decision |
-
-Engineers with deep conviction — because they understand the customer signal — ship stronger work, faster.
-
-No specs. No frameworks. Not a PM in a box. These skills don't think for you; they get you to the customer faster, and back to the code with something real.
 
 ## Install
 
